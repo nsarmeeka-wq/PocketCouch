@@ -28,7 +28,8 @@ function AccountCard({ saved }: { saved: boolean }) {
     setBusy(true);
     try {
       await auth.signOut();
-      navigate('/', { replace: true });
+      // land on the sign-in screen so switching to another account is one step
+      navigate('/signin', { replace: true });
     } finally {
       setBusy(false);
     }
@@ -113,7 +114,7 @@ function AccountCard({ saved }: { saved: boolean }) {
 
       <div className="mt-4 space-y-2.5">
         <button type="button" className="btn-ghost w-full !justify-start" onClick={signOut} disabled={busy}>
-          {busy ? <Loader2 size={15} className="animate-spin" /> : <LogOut size={15} />} Sign out
+          {busy ? <Loader2 size={15} className="animate-spin" /> : <LogOut size={15} />} Switch account — sign out
         </button>
         <button
           type="button"

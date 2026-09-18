@@ -23,10 +23,11 @@ export function AppShell() {
 
   const toggleTheme = () => dispatch({ type: 'set-theme', theme: state.theme === 'dark' ? 'light' : 'dark' });
 
-  /** Signs out of an account, or steps out of guest mode back to the landing page. */
+  /** Signs out to the sign-in screen (one step to switch accounts), or steps out of guest mode to the landing page. */
   const leave = async () => {
+    const wasAuthenticated = auth.status === 'authenticated';
     await auth.signOut();
-    navigate('/', { replace: true });
+    navigate(wasAuthenticated ? '/signin' : '/', { replace: true });
   };
 
   return (
@@ -81,7 +82,7 @@ export function AppShell() {
           <div className="mt-3 flex items-center gap-2">
             {auth.status === 'authenticated' ? (
               <button type="button" onClick={leave} className="btn-ghost flex-1 !py-2 text-xs">
-                <LogOut size={13} /> Sign out
+                <LogOut size={13} /> Switch account
               </button>
             ) : (
               <>
