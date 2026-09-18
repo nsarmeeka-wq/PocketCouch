@@ -1,0 +1,14 @@
+
+> pocketcoach-ai@1.0.0 backend
+> node scripts/backend.mjs
+
+
+  PocketCoach API → http://127.0.0.1:8000
+  Docs           → http://127.0.0.1:8000/docs
+  Interpreter    → C:\Users\nsarm\AppData\Local\Programs\Python\Python311\python.exe (Python 3.11.9, FastAPI 0.110.0)
+
+INFO:     127.0.0.1:56237 - "PATCH /api/users/me HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56240 - "GET /api/auth/me HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:56596 - "GET /api/auth/me HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56597 - "GET /api/auth/me HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56828 - "PATCH /api/users/me HTTP/1.1" 200 OK

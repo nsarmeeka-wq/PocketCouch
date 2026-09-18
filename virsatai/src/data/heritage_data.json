@@ -1,0 +1,1636 @@
+{
+  "languages": [
+    { "code": "en", "name": "English", "nativeName": "English", "flag": "🇬🇧", "supported": true },
+    { "code": "ta", "name": "Tamil", "nativeName": "தமிழ்", "flag": "🇮🇳", "supported": true },
+    { "code": "hi", "name": "Hindi", "nativeName": "हिंदी", "flag": "🇮🇳", "supported": true },
+    { "code": "mr", "name": "Marathi", "nativeName": "मराठी", "flag": "🇮🇳", "supported": true },
+    { "code": "bn", "name": "Bengali", "nativeName": "বাংলা", "flag": "🇮🇳", "supported": true },
+    { "code": "te", "name": "Telugu", "nativeName": "తెలుగు", "flag": "🇮🇳", "supported": true }
+  ],
+  "items": {
+    "konark_wheel": {
+      "id": "konark_wheel",
+      "name": "Konark Sun Temple Wheel",
+      "names": {
+        "en": "Konark Sun Temple Wheel",
+        "ta": "கோனார்க் சூரியக் கோயில் சக்கரம்",
+        "hi": "कोणार्क सूर्य मंदिर चक्र",
+        "mr": "कोणार्क सूर्य मंदिर चक्र",
+        "bn": "কোনাক সূর্য মন্দির চক্র",
+        "te": "కోణార్క్ సూర్య దేవాలయ చక్రం"
+      },
+      "location": "Konark, Puri, Odisha, India",
+      "locations": {
+        "en": "Konark, Puri, Odisha, India",
+        "ta": "கோனார்க், புரி, ஒடிசா, இந்தியா",
+        "hi": "कोणार्क, पुरी, ओडिशा, भारत",
+        "mr": "कोणार्क, पुरी, ओडिशा, भारत",
+        "bn": "কোনাক, পুরী, ওড়িশা, ভারত",
+        "te": "కోణార్క్, పూరి, ఒడిశా, భారతదేశం"
+      },
+      "state": "Odisha",
+      "period": "13th Century CE (~1250 CE)",
+      "category": "Monuments",
+      "imageUrl": "https://images.unsplash.com/photo-1609766857041-ed402ea8069a?q=80&w=1200&auto=format&fit=crop",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1609766857041-ed402ea8069a?q=80&w=400&auto=format&fit=crop",
+      "confidenceScore": 96,
+      "verified": true,
+      "unescoStatus": "UNESCO World Heritage Site (1984)",
+      "overview": {
+        "en": "The monumental stone wheels of the 13th-century Konark Sun Temple in Odisha are masterworks of ancient Indian Kalinga architecture, functioning both as celestial sundials and spiritual cosmic symbols.",
+        "ta": "ஒடிசாவின் 13-ஆம் நூற்றாண்டு கோனார்க் சூரியக் கோயிலின் பிரம்மாண்ட கல் சக்கரங்கள், பண்டைய இந்திய கலிங்க கட்டிடக்கலையின் ஒப்பற்ற படைப்புகளாகும். இவை வானியல் சூரியக் கடிகாரங்களாகவும் ஆன்மீக பிரபஞ்ச சின்னங்களாகவும் திகழ்கின்றன.",
+        "hi": "ओडिशा के 13वीं शताब्दी के कोणार्क सूर्य मंदिर के भव्य प्रस्तर चक्र प्राचीन भारतीय कलिंग वास्तुकला के उत्कृष्ट उदाहरण हैं, जो धूपघड़ी और ब्रह्मांडीय प्रतीकों के रूप में कार्य करते हैं।",
+        "mr": "ओडिशातील १३व्या शतकातील कोणार्क सूर्य मंदिराची भव्य दगडी चाके प्राचीन भारतीय कलिंग वास्तुकलेचा उत्कृष्ट नमुना आहेत.",
+        "bn": "ওড়িশার ত্রয়োদশ শতাব্দীর কোনাক সূর্য মন্দিরের পাথরের চাকা প্রাচীন ভারতীয় কলিঙ্গ স্থাপত্যের এক অবিস্মরণীয় সৃষ্টি।",
+        "te": "ఒడిశాలోని 13వ శతాబ్దపు కోణార్క్ సూర్య దేవాలయ రథ చక్రాలు ప్రాచీన కళింగ శిల్పకళా అద్భుతాలు."
+      },
+      "culturalSignificance": {
+        "en": "The Konark Wheel represents the eternal Wheel of Time (Kalachakra) and the cycle of cosmic creation. Each of the 24 wheels carved into the temple base symbolizes the hours of the day and fortnights of the year. The wheels also inspired the Chakra in the center of India's National Flag and modern 10 Rupee currency note.",
+        "ta": "கோனார்க் சக்கரம் காலத்தின் சக்கரத்தையும் (காலச்சக்கரம்) பிரபஞ்ச சுழற்சியையும் குறிக்கிறது. கோயிலின் தளத்தில் செதுக்கப்பட்டுள்ள 24 சக்கரங்கள் நாளின் 24 மணிநேரங்களையும் வருடத்தின் பக்ஷங்களையும் குறிக்கின்றன. இதுவே இந்தியாவின் தேசியக் கொடியின் மையத்தில் உள்ள அசோகச் சக்கரத்தின் உத்வேகங்களில் ஒன்றாகும்.",
+        "hi": "कोणार्क चक्र शाश्वत कालचक्र और जीवन के निरंतर प्रवाह का प्रतीक है। मंदिर के आधार पर उत्कीर्ण 24 चक्र दिन के 24 प्रहरों और वर्ष के पक्षों का प्रतिनिधित्व करते हैं। यह भारतीय संस्कृति में सूर्य देव की असीम ऊर्जा का सम्मान करता है।",
+        "mr": "कोणार्क चक्र हे कालचक्राचे आणि सूर्यदेवाच्या रथाच्या अखंड प्रवासाचे प्रतीक आहे.",
+        "bn": "কোনাক চাকা অনন্ত কালচক্র এবং বিশ্বব্রহ্মাণ্ডের গতিশীলতার প্রতীক।",
+        "te": "కోణార్క్ చక్రం కాలచక్రానికి మరియు నిరంతర సృష్టికి నిదర్శనం."
+      },
+      "history": {
+        "en": "Commissioned by King Narasimhadeva I of the Eastern Ganga Dynasty around 1250 CE, the entire temple was conceived as a gigantic 24-wheeled chariot pulled by seven galloping horses for Surya, the Sun God. Over 1,200 master sculptors worked for 12 years to complete this monumental wonder of Khondalite stone.",
+        "ta": "கி.பி. 1250 வாக்கில் கிழக்கு கங்க வம்சத்தின் முதலாம் நரசிம்மதேவ மன்னரால் கட்டப்பட்டது. இக்கோயில் சூரிய பகவானுக்காக ஏழு குதிரைகள் இழுக்கும் 24 சக்கரங்கள் கொண்ட பிரம்மாண்ட ரதமாக வடிவமைக்கப்பட்டது. 1,200 சிற்பிகள் 12 ஆண்டுகள் செதுக்கி இதனை உருவாக்கினர்.",
+        "hi": "इसे पूर्वी गंग वंश के प्रतापी राजा नरसिंहदेव प्रथम ने लगभग 1250 ईस्वी में बनवाया था। संपूर्ण मंदिर को सूर्य देव के 24 पहियों और 7 घोड़ों वाले विशालकाय रथ के रूप में खोन्दलाइट पत्थरों से तराशा गया था। 1,200 कुशल शिल्पकारों ने 12 वर्षों के अथक परिश्रम से इसे पूर्ण किया।",
+        "mr": "पूर्व गंगा घराण्याचे राजे प्रथम नरसिंहदेव यांनी १२५० च्या सुमारास हे अप्रतिम मंदिर निर्माण केले.",
+        "bn": "পূর্ব গঙ্গা রাজবংশের প্রথম নরসিংহদেব ১২৫০ খ্রিস্টাব্দ নাগাদ সূর্য দেবতার এই রথ মন্দির নির্মাণ করেছিলেন।",
+        "te": "తూర్పు గంగ వంశపు మొదటి నరసింహదేవ రాజు క్రీ.శ. 1250 లో ఈ అద్భుత రథ దేవాలయాన్ని నిర్మించారు."
+      },
+      "architecture": {
+        "en": "Carved in the authentic Kalinga architectural style, each wheel measures 9 feet 9 inches in diameter with 8 major spokes and 8 minor spokes. The spokes act as an intricate sundial: the shadow cast by the central axle allows precise reading of the time down to the minute. The rims are lavishly decorated with motifs of dancers, musicians, birds, and forest foliage.",
+        "ta": "கலிங்க கட்டிடக்கலை பாணியில் வடிக்கப்பட்ட இந்த சக்கரம் 9 அடி 9 அங்குல விட்டம் கொண்டது. இதில் 8 பெரிய மற்றும் 8 சிறிய ஆரங்கள் உள்ளன. மைய அச்சு ஏற்படுத்தும் நிழல் மூலம் நிமிட துல்லியத்துடன் நேரத்தைக் கணக்கிடும் சூரியக் கடிகாரமாக இது செயல்படுகிறது.",
+        "hi": "कलिंग शैली में निर्मित प्रत्येक पहिये का व्यास 9 फीट 9 इंच है, जिसमें 8 मुख्य और 8 उप-तीलियां हैं। केंद्रीय धुरी द्वारा डाली गई छाया से मिनट तक का सटीक समय मापा जा सकता है। इसके किनारों पर नर्तकों, संगीतकारों और जीव-जंतुओं की सूक्ष्म नक्काशी है।",
+        "mr": "कलिंग स्थापत्यशैलीत कोरलेले हे चाक ९ फूट ९ इंच व्यासाचे असून ते अचूक सूर्यघड्याळ म्हणून काम करते.",
+        "bn": "কলিঙ্গ স্থাপত্যরীতিতে তৈরি এই চাকার পরিধি ৯ ফুট ৯ ইঞ্চি, যা চমৎকার সৌরঘড়ি হিসেবে সূক্ষ্ম সময় নির্দেশ করে।",
+        "te": "కళింగ వాస్తు శైలిలో చెక్కబడిన ఈ చక్రం 9 అడుగుల 9 అంగుళాల వ్యాసంతో నిమిషాల ఖచ్చితత్వంతో సమయాన్ని చూపే సూర్య గడియారం."
+      },
+      "facts": {
+        "en": [
+          "The Konark Wheel is an exact astronomical sundial; local guides still read exact solar time using shadow projections.",
+          "The entire temple was originally located on the shores of the Bay of Bengal and was known as the 'Black Pagoda' by European sailors.",
+          "The temple design portrays 7 horses symbolizing the seven days of the week and 24 wheels symbolizing the 24 fortnights in a year.",
+          "The design of the wheel is featured on the reverse side of the Indian 10-rupee currency note."
+        ],
+        "ta": [
+          "கோனார்க் சக்கரம் ஒரு துல்லியமான வானியல் சூரியக் கடிகாரம்; இதன் நிழல் மூலம் இன்றும் துல்லியமாக நேரம் கணக்கிடப்படுகிறது.",
+          "ஐரோப்பிய மாலுமிகளால் வங்காள விரிகுடாவில் இது 'கருப்பு பகோடா' (Black Pagoda) என்று அழைக்கப்பட்டது.",
+          "7 குதிரைகள் வாரத்தின் 7 நாட்களையும், 24 சக்கரங்கள் ஆண்டின் 24 பக்ஷங்களையும் குறிக்கின்றன.",
+          "இந்திய ரிசர்வ் வங்கியின் 10 ரூபாய் நோட்டின் பின்புறத்தில் கோனார்க் சக்கரத்தின் படம் இடம்பெற்றுள்ளது."
+        ],
+        "hi": [
+          "कोणार्क चक्र एक अत्यंत सटीक खगोलीय धूपघड़ी है, जिसकी छाया देखकर आज भी मिनटों में समय बताया जा सकता है।",
+          "यूरोपीय नाविक बंगाल की खाड़ी से देखकर इस मंदिर को 'ब्लैक पगोडा' (Black Pagoda) कहते थे।",
+          "मंदिर के 7 घोड़े सप्ताह के 7 दिनों को और 24 पहिये वर्ष के 24 पक्षों को दर्शाते हैं।",
+          "भारतीय 10 रुपये के नए नोट के पीछे कोणार्क सूर्य मंदिर के इसी चक्र की तस्वीर छपी है।"
+        ],
+        "mr": [
+          "कोणार्क चक्र हे एक अत्यंत अचूक सूर्यघड्याळ आहे.",
+          "युरोपियन खलाशी या मंदिराला 'ब्लॅक पॅगोडा' म्हणत असत.",
+          "भारतीय १० रुपयांच्या नोटेवर या चक्राचे चित्र आहे."
+        ],
+        "bn": [
+          "কোনাক চাকা একটি অত্যন্ত নিখুঁত সৌরঘড়ি যা সূর্যের ছায়া দিয়ে সময় জানায়।",
+          "ইউরোপীয় নাবিকরা একে 'ব্ল্যাক প্যাগোডা' নামে ডাকতেন।",
+          "ভারতের নতুন ১০ টাকার নোটে কোনাক চাকার ছবি রয়েছে।"
+        ],
+        "te": [
+          "కోణార్క్ చక్రం ఒక అద్భుత ఖగోళ సూర్య గడియారం.",
+          "యూరోపియన్ నావికులు దీనిని 'బ్లాక్ పగోడా' అని పిలిచేవారు.",
+          "భారతదేశ 10 రూపాయల నోటు వెనుక ఈ కోణార్క్ చక్రం ముద్రించబడింది."
+        ]
+      },
+      "audioNarrationText": {
+        "en": "Welcome to VirasatAI. Before you stands the magnificent 13th-century Konark Sun Temple Wheel from Odisha. Conceived as the chariot of the Sun God Surya, this 9-foot stone marvel is not merely decorative sculpture; it is an astronomical instrument capable of telling solar time down to the minute. As sunlight illuminates the spokes, ancient India's mathematical and architectural brilliance speaks across eight centuries.",
+        "ta": "விராசத் ஏஐ-க்கு வரவேற்கிறோம். உங்கள் முன் ஒடிசாவின் புகழ்பெற்ற 13-ஆம் நூற்றாண்டு கோனார்க் சூரியக் கோயில் சக்கரம் காட்சியளிக்கிறது. சூரிய பகவானின் ரதச் சக்கரமாக செதுக்கப்பட்ட இந்த 9 அடி கல் அற்புதம், வெறுமனே கலைப்படைப்பு மட்டுமல்ல; நிமிட துல்லியத்துடன் நேரத்தைக் கணிக்கும் வானியல் சூரியக் கடிகாரமாகும். இதன் ஆரங்களின் மீது சூரிய ஒளி விழும்போது, பண்டைய இந்தியாவின் கணித மற்றும் கட்டிடக்கலை மேதமை நமக்கு வெளிப்படுகிறது.",
+        "hi": "विरासत एआई में आपका स्वागत है। आपके समक्ष उपस्थित है ओडिशा का विश्वविख्यात 13वीं शताब्दी का कोणार्क सूर्य मंदिर चक्र। भगवान सूर्य के महाप्रतापी रथ के पहिये के रूप में गढ़ा गया यह प्रस्तर शिल्प न केवल एक कलात्मक आश्चर्य है, बल्कि एक अत्यंत सटीक खगोलीय धूपघड़ी भी है। सूर्य की किरणें जब इसकी तीलियों पर पड़ती हैं, तो प्राचीन भारत का वैज्ञानिक और स्थापत्य गौरव सजीव हो उठता है।"
+      },
+      "story": {
+        "title": {
+          "en": "The Chariot of the Rising Sun",
+          "ta": "உதய சூரியனின் தெய்வீக ரதம்",
+          "hi": "उदयमान सूर्य का दिव्य रथ",
+          "mr": "उगवत्या सूर्याचा दिव्य रथ",
+          "bn": "উদীয়মান সূর্যের রথকাহিনী",
+          "te": "ఉదయ భాస్కరుని దివ్య రథం"
+        },
+        "intro": {
+          "en": "Imagine standing beside the shores of the Bay of Bengal 770 years ago, surrounded by ocean mist and the chanting of hymns as King Narasimhadeva dreams of a temple shaped like a chariot of cosmic light...",
+          "ta": "சுமார் 770 ஆண்டுகளுக்கு முன் வங்கக்கடலின் கடற்கரையில் நிற்பதாக கற்பனை செய்துகொள்ளுங்கள்; கடல் அலைகளின் இரைச்சலிலும் வேத கோஷங்களிலும் முதலாம் நரசிம்மதேவ மன்னர் பிரபஞ்ச ஒளியின் ரதமாக இக்கோயிலை வடிக்க கனவு காண்கிறார்...",
+          "hi": "कल्पना कीजिए 770 वर्ष पूर्व बंगाल की खाड़ी के तट पर खड़े होने की, जहां समुद्र की लहरों और वैदिक मंत्रोच्चार के बीच राजा नरसिंहदेव सूर्य देव के लिए प्रकाश के एक दिव्य रथ का स्वप्न देख रहे हैं..."
+        },
+        "chapters": [
+          {
+            "id": "c1",
+            "title": {
+              "en": "The Grand Vision of Narasimhadeva",
+              "ta": "நரசிம்மதேவரின் மாபெரும் கனவு",
+              "hi": "नरसिंहदेव का विराट स्वप्न"
+            },
+            "content": {
+              "en": "Following victories in war, King Narasimhadeva I resolved to build an unmatchable monument honoring Surya. He envisioned not a conventional temple, but a moving cosmos — an enormous celestial vehicle carved directly from stone.",
+              "ta": "போரில் பெற்ற வெற்றியைத் தொடர்ந்து, சூரியனுக்கு நிகரற்ற ஓர் நினைவுச்சின்னத்தை எழுப்ப முதலாம் நரசிம்மதேவர் உறுதிகொண்டார். சாதாரண கோயிலாக அல்லாமல், நகரும் பிரபஞ்ச ரதமாகவே இதனை கற்பனை செய்தார்.",
+              "hi": "युद्ध में विजय के उपरांत राजा नरसिंहदेव प्रथम ने भगवान सूर्य को समर्पित एक अप्रतिम स्मारक बनाने का संकल्प लिया। उन्होंने मंदिर को एक गतिशील ब्रह्मांड के रूप में पत्थरों से साकार करने की योजना बनाई।"
+            }
+          },
+          {
+            "id": "c2",
+            "title": {
+              "en": "1,200 Artisans and 12 Years of Devotion",
+              "ta": "1,200 சிற்பிகளின் 12 ஆண்டு தவப்பணி",
+              "hi": "1,200 शिल्पियों का 12 वर्षों का तप"
+            },
+            "content": {
+              "en": "Led by the legendary chief architect Bisu Maharana, 1,200 master craftsmen spent twelve arduous years carving Khondalite and chlorite stone. Every spoke and rim was imbued with cosmological meaning, interlocking mechanics, and celestial mathematics.",
+              "ta": "தலைமை சிற்பி பிசு மகாரானாவின் தலைமையில் 1,200 கலைஞர்கள் பன்னிரண்டு ஆண்டுகள் கடின உழைப்பை நல்கினர். ஒவ்வொரு ஆரமும் வானியல் கணக்குகளோடும் ஆன்மீக தத்துவங்களோடும் இணைக்கப்பட்டது.",
+              "hi": "प्रधान वास्तुकार बिसु महाराणा के नेतृत्व में 1,200 मूर्तिकारों ने 12 वर्षों तक निरंतर छेनी और हथौड़े चलाए। प्रत्येक तीली में खगोलीय गणित और आध्यात्मिक दर्शन को समाहित किया गया।"
+            }
+          },
+          {
+            "id": "c3",
+            "title": {
+              "en": "The Clock of Eternity",
+              "ta": "காலத்தை வென்ற கடிகாரம்",
+              "hi": "कालजयी सौर घड़ी"
+            },
+            "content": {
+              "en": "Even today, when the morning sun strikes the axle of the Konark Wheel, its shadow reveals the exact hour and minute with mathematical perfection. It stands as a testament that Indian heritage is where art, science, and sacred devotion become one.",
+              "ta": "இன்றும் கூட, காலைச் சூரியனின் கதிர்கள் சக்கரத்தின் மையத்தில் விழும்போது, அதன் நிழல் துல்லியமான நேரத்தை பறைசாற்றுகிறது. கலை, அறிவியல் மற்றும் பக்தி ஒன்றிணைந்த இந்தியப் பண்பாட்டின் சான்றாக இது திகழ்கிறது.",
+              "hi": "आज भी जब प्रातःकाल का सूर्य चक्र की धुरी को स्पर्श करता है, उसकी छाया मिनट-दर-मिनट सही समय दर्शाती है। यह इस बात का प्रमाण है कि भारतीय विरासत में कला, विज्ञान और अध्यात्म एक हैं।"
+            }
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "id": "kw_q1",
+          "question": {
+            "en": "In which Indian state is the Konark Sun Temple situated?",
+            "ta": "கோனார்க் சூரியக் கோயில் இந்தியாவின் எந்த மாநிலத்தில் அமைந்துள்ளது?",
+            "hi": "कोणार्क सूर्य मंदिर भारत के किस राज्य में स्थित है?"
+          },
+          "options": {
+            "en": ["Tamil Nadu", "Odisha", "Karnataka", "Rajasthan"],
+            "ta": ["தமிழ்நாடு", "ஒடிசா", "கர்நாடகா", "ராஜஸ்தான்"],
+            "hi": ["तमिलनाडु", "ओडिशा", "कर्नाटक", "राजस्थान"]
+          },
+          "correctIndex": 1,
+          "explanation": {
+            "en": "Konark Sun Temple is located in the coastal district of Puri in Odisha, India.",
+            "ta": "கோனார்க் சூரியக் கோயில் ஒடிசா மாநிலத்தின் புரி மாவட்டத்தில் அமைந்துள்ளது.",
+            "hi": "कोणार्क सूर्य मंदिर ओडिशा के पुरी जिले में बंगाल की खाड़ी के पास स्थित है।"
+          }
+        },
+        {
+          "id": "kw_q2",
+          "question": {
+            "en": "What functional astronomical purpose do the wheels of Konark serve?",
+            "ta": "கோனார்க் சக்கரங்கள் என்ன வானியல் பயன்பாட்டிற்கு உதவின?",
+            "hi": "कोणार्क मंदिर के पहिये किस खगोलीय कार्य के लिए उपयोग किए जाते थे?"
+          },
+          "options": {
+            "en": ["Weather forecasting", "Astronomical Sundials", "Seismic earthquake detector", "Tidal measurement"],
+            "ta": ["வானிலை கணிப்பு", "வானியல் சூரியக் கடிகாரம்", "நிலநடுக்க கண்டறிதல்", "அலை ஏற்ற இறக்க அளவீடு"],
+            "hi": ["मौसम पूर्वानुमान", "खगोलीय धूपघड़ी", "भूकंप संवेदक", "ज्वारभाटा मापन"]
+          },
+          "correctIndex": 1,
+          "explanation": {
+            "en": "The spokes and central axle create precise shadow projections that measure solar time down to the minute.",
+            "ta": "மைய அச்சு மற்றும் ஆரங்களின் நிழல் மூலம் நிமிட துல்லியத்துடன் சூரிய நேரத்தை அறியலாம்.",
+            "hi": "पहियों की तीलियों की छाया दिन के सटीक समय को मिनटों तक नापने में सक्षम धूपघड़ी बनाती है।"
+          }
+        },
+        {
+          "id": "kw_q3",
+          "question": {
+            "en": "Which Indian currency banknote features the motif of the Konark Sun Temple Wheel?",
+            "ta": "எந்த இந்திய ரூபாய் நோட்டின் பின்புறத்தில் கோனார்க் சக்கரத்தின் சின்னம் உள்ளது?",
+            "hi": "किस भारतीय बैंक नोट पर कोणार्क सूर्य मंदिर के चक्र का चित्र है?"
+          },
+          "options": {
+            "en": ["₹10 Note", "₹50 Note", "₹100 Note", "₹500 Note"],
+            "ta": ["₹10 நோட்டு", "₹50 நோட்டு", "₹100 நோட்டு", "₹500 நோட்டு"],
+            "hi": ["₹10 का नोट", "₹50 का नोट", "₹100 का नोट", "₹500 का नोट"]
+          },
+          "correctIndex": 0,
+          "explanation": {
+            "en": "The ₹10 chocolate brown banknote introduced by the Reserve Bank of India features the Konark Sun Temple Wheel on its reverse.",
+            "ta": "இந்திய ரிசர்வ் வங்கியின் பழுப்பு நிற ₹10 ரூபாய் நோட்டின் பின்புறத்தில் கோனார்க் சக்கரம் உள்ளது.",
+            "hi": "भारतीय रिजर्व बैंक द्वारा जारी नए ₹10 के भूरे नोट के पीछे कोणार्क सूर्य मंदिर का पहिया चित्रित है।"
+          }
+        }
+      ],
+      "tags": ["Kalinga Architecture", "UNESCO", "Sun Temple", "Odisha", "Sundial"]
+    },
+    "madhubani_art": {
+      "id": "madhubani_art",
+      "name": "Madhubani Mithila Painting",
+      "names": {
+        "en": "Madhubani Mithila Painting",
+        "ta": "மதுபானி மிதிலை ஓவியக் கலை",
+        "hi": "मधुबनी मिथिला चित्रकला",
+        "mr": "मधुबनी मिथिला चित्रकला",
+        "bn": "মধুবনী মিথিলা চিত্রকলা",
+        "te": "మధుబని మిథిల చిత్రకళ"
+      },
+      "location": "Mithila Region, Bihar & Nepal Border",
+      "locations": {
+        "en": "Mithila Region, Bihar, India",
+        "ta": "மிதிலை பகுதி, பீகார், இந்தியா",
+        "hi": "मिथिला क्षेत्र, बिहार, भारत",
+        "mr": "मिथिला प्रदेश, बिहार, भारत",
+        "bn": "মিথিলা অঞ্চল, বিহার, ভারত",
+        "te": "మిథిల ప్రాంతం, బీహార్, భారతదేశం"
+      },
+      "state": "Bihar",
+      "period": "Ancient Folk Tradition (Antiquity)",
+      "category": "Traditional Art",
+      "imageUrl": "https://images.unsplash.com/photo-1582560475093-ba66accbc424?q=80&w=1200&auto=format&fit=crop",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1582560475093-ba66accbc424?q=80&w=400&auto=format&fit=crop",
+      "confidenceScore": 94,
+      "verified": true,
+      "unescoStatus": "GI Protected Cultural Heritage (India)",
+      "overview": {
+        "en": "Madhubani painting, also known as Mithila art, is a vibrant traditional Indian folk art characterized by intricate geometric patterns, bold natural pigments, and two-dimensional depictions of deities, weddings, and nature.",
+        "ta": "மதுபானி ஓவியம் அல்லது மிதிலை கலை என்பது பீகாரின் பாரம்பரிய நாட்டுப்புறக் கலையாகும். சிக்கலான வடிவியல் வடிவங்கள், இயற்கையான வண்ணங்கள், தெய்வங்கள் மற்றும் இயற்கைக் காட்சிகளை விவரிக்கும் ஒப்பற்ற கலை இதுவாகும்.",
+        "hi": "मधुबनी अथवा मिथिला चित्रकला बिहार की पारंपरिक लोककला है, जो जटिल ज्यामितीय आकृतियों, प्राकृतिक रंगों और देवी-देवताओं तथा प्रकृति के द्विविमीय चित्रण के लिए जानी जाती है।",
+        "mr": "मधुबनी चित्रकला ही बिहारच्या मिथिला भागातील प्रसिद्ध पारंपरिक लोककला आहे.",
+        "bn": "মধুবনী বা মিথিলা চিত্রকলা বিহারের সমৃদ্ধ ঐতিহ্যবাহী লোকশিল্প।",
+        "te": "మధుబని చిత్రకళ బీహార్‌లోని మిథిల ప్రాంతానికి చెందిన ప్రసిద్ధ సంప్రదాయ కళ."
+      },
+      "culturalSignificance": {
+        "en": "Traditionally created by women on the freshly plastered mud walls of village huts during auspicious ceremonies like marriages and births. According to local folklore, King Janaka first commissioned artists to paint the walls for the marriage of his daughter Sita to Lord Rama.",
+        "ta": "திருமணம் மற்றும் பண்டிகை காலங்களில் கிராமப்புற பெண்களால் குடிசை சுவர்களில் வரையப்படும் புனிதக் கலையாகும். சீதை-ராமன் திருமணத்தின் போது ஜனக மன்னரால் முதன்முதலில் இவ்வோவியங்கள் வரையப் பணிக்கப்பட்டதாக நாட்டுப்புறக் கதை கூறுகிறது.",
+        "hi": "पारंपरिक रूप से यह कला मिथिला की महिलाओं द्वारा विवाह और शुभ संस्कारों के अवसर पर मिट्टी की दीवारों पर बनाई जाती थी। मान्यता है कि राजा जनक ने माता सीता और श्रीराम के विवाह के अवसर पर संपूर्ण नगर को इस कला से सजाने का आदेश दिया था।",
+        "mr": "सीता-रामांच्या विवाहावेळी जनक राजाने ही चित्रे काढण्यास सांगितली होती अशी श्रद्धा आहे.",
+        "bn": "রাম-সীতার শুভ পরিণয়ে রাজা জনক প্রথম এই চিত্রকলার সূচনা করেছিলেন বলে লোকবিশ্বাস।",
+        "te": "సీతారాముల కల్యాణ సమయంలో జనక మహారాజు ఈ చిత్రాలను గీయించాడని ప్రతీతి."
+      },
+      "history": {
+        "en": "Practiced for centuries in the Mithila region, it remained largely concealed from the outside world until the massive 1934 Bihar earthquake, when British colonial officer William G. Archer discovered stunning painted interior walls in shattered village homes.",
+        "ta": "நூற்றாண்டுகளாக கிராமப்புற வீடுகளுக்குள்ளேயே இருந்த இக்கலை, 1934-ஆம் ஆண்டு ஏற்பட்ட பீகார் நிலநடுக்கத்திற்குப் பிறகே வெளி உலகிற்கு தெரியவந்தது. வில்லியம் ஆர்ச்சர் என்ற அதிகாரி உடைந்த வீடுகளில் இருந்த கண்கவர் ஓவியங்களைக் கண்டு வியந்து ஆவணப்படுத்தினார்.",
+        "hi": "सदियों से यह कला मिथिला के घरों की चारदीवारी तक सीमित थी। 1934 के भीषण बिहार भूकंप के बाद जब ब्रिटिश अधिकारी विलियम आर्चर टूटे हुए मकानों का निरीक्षण कर रहे थे, तब उन्होंने इन अद्भुत भित्तिचित्रों को देखा और विश्व के समक्ष प्रस्तुत किया।",
+        "mr": "१९३४ च्या भूकंपाच्या वेळी ही कला जगासमोर आली.",
+        "bn": "১৯৩৪ সালের ভূমিকম্পের পর এই অনন্য শিল্প বিশ্বের নজর কাড়ে।",
+        "te": "1934 లో సంభవించిన భూకంపం తర్వాత ఈ కళ ప్రపంచానికి పరిచయమైంది."
+      },
+      "architecture": {
+        "en": "Distinct styles include Bharni (rich color fills), Katchni (fine line work), Godna, and Tantric iconography. Artists utilize bamboo twigs, matchsticks, and fingers. Pigments are 100% natural: lampblack for black, turmeric for yellow, indigo for blue, and kusum flower extract for red.",
+        "ta": "பர்னி (வண்ண நிரப்புதல்), கச்னி (மெல்லிய கோடுகள்) போன்ற தனித்துவமான பாணிகள் உள்ளன. மூங்கில் குச்சிகள், விரல்களால் வரையப்படும் இவ்வோவியங்களில் மஞ்சள், அவுரி, கரி போன்ற 100% இயற்கை வண்ணப் பொருட்கள் மட்டுமே பயன்படுகின்றன.",
+        "hi": "इसकी प्रमुख शैलियों में भरनी, कछनी और गोदना शामिल हैं। चित्रकार बांस की तीलियों और उंगलियों से चित्र बनाते हैं। रंग पूर्णतः प्राकृतिक होते हैं: हल्दी से पीला, कालिख से काला, नील से नीला और कुसुम के फूलों से लाल रंग बनाया जाता है।",
+        "mr": "बांबूच्या काड्या आणि नैसर्गिक रंगांचा वापर करून ही कला रेखाटली जाते.",
+        "bn": "বাঁশের কঞ্চি ও সম্পূর্ণ প্রাকৃতিক রং যেমন হলুদ, গাছের পাতা থেকে তৈরি রঙ্গে এটি আঁকা হয়।",
+        "te": "వెదురు పుల్లలు, సహజ రంగులను ఉపయోగించి ఈ కళను తీర్చిదిద్దుతారు."
+      },
+      "facts": {
+        "en": [
+          "Madhubani paintings leave no empty spaces; gaps are filled with flowers, birds, geometrical motifs, and sacred peacocks.",
+          "In 2012, Madhubani artists painted highway trees to prevent deforestation; loggers refused to cut trees bearing sacred deities.",
+          "It received the prestigious Geographical Indication (GI) tag in 2007.",
+          "Legendary artists like Ganga Devi and Sita Devi elevated it to global contemporary art museums."
+        ],
+        "ta": [
+          "மதுபானி ஓவியங்களில் இடைவெளிகள் விடப்படுவதில்லை; மலர்கள், பறவைகள், மயில்கள் போன்றவற்றால் நிரப்பப்படுகின்றன.",
+          "2012 இல், மரங்கள் வெட்டப்படுவதைத் தடுக்க மரங்களில் தெய்வ ஓவியங்களை வரைந்து வனப்பாதுகாப்பு செய்தனர்.",
+          "2007-ல் இந்திய அரசால் புவிசார் குறியீடு (GI Tag) வழங்கப்பட்டது.",
+          "கங்கா தேவி, சீதா தேவி போன்ற கலைஞர்கள் இதனை உலக அரங்கிற்கு எடுத்துச் சென்றனர்."
+        ],
+        "hi": [
+          "मधुबनी चित्रों में कोई भी खाली जगह नहीं छोड़ी जाती; खाली स्थानों को फूलों, चिड़ियों और पत्तियों से भर दिया जाता है।",
+          "2012 में बिहार में पेड़ों को कटने से बचाने के लिए उन पर मधुबनी देवी-देवताओं के चित्र बनाए गए थे, जिससे लोगों ने पेड़ काटना बंद कर दिया।",
+          "वर्ष 2007 में इसे भौगोलिक संकेतक (GI Tag) प्रदान किया गया।",
+          "गंगा देवी और सीता देवी जैसी महिला कलाकारों ने इसे अंतरराष्ट्रीय ख्याति दिलाई।"
+        ],
+        "mr": [
+          "मधुबनी चित्रांमध्ये रिकामी जागा ठेवली जात नाही.",
+          "झाडे वाचवण्यासाठी या चित्रांचा अभिनव वापर करण्यात आला होता."
+        ],
+        "bn": [
+          "মধুবনী চিত্রকলায় কোনও খালি জায়গা রাখা হয় না, নানা নকশা দিয়ে ভরাট করা হয়।",
+          "গাছ কাটা রোধ করতে গাছের গায়ে এই পবিত্র ছবি আঁকা হয়েছিল।"
+        ],
+        "te": [
+          "ఈ చిత్రాలలో ఖాళీ స్థలం లేకుండా లతలు, పక్షుల బొమ్మలతో నింపుతారు.",
+          "చెట్లను రక్షించడానికి ఈ దైవిక కళను ఉపయోగించారు."
+        ]
+      },
+      "audioNarrationText": {
+        "en": "Listen to the voice of Mithila. Madhubani art is one of India's oldest living art traditions, born in the sacred soil of Bihar. Hand-painted with natural dyes of turmeric, indigo, and forest blooms, these intricate patterns tell stories of harmony between humans, gods, and mother nature. Every stroke carries the devotion of generations of women artists.",
+        "ta": "மிதிலையின் குரலைக் கேளுங்கள். பீகாரின் புனித மண்ணில் தோன்றிய மதுபானி ஓவியக் கலை, இந்தியாவின் மிகத் தொன்மையான நாட்டுப்புறக் கலைகளில் ஒன்றாகும். மஞ்சள், நீலம், பூக்களின் சாறுகளைப் பயன்படுத்தி வரையப்படும் இந்த ஓவியங்கள், மனிதனுக்கும் இயற்கைக்கும் இடையே உள்ள நல்லிணக்கத்தைப் பேசுகின்றன.",
+        "hi": "सुनिए मिथिला की अमर वाणी। बिहार की पावन धरा से जन्मी मधुबनी चित्रकला भारत की सबसे प्राचीन सजीव कला परंपराओं में से एक है। हल्दी, नील और फूलों के प्राकृतिक रंगों से सजी यह कला मनुष्य और प्रकृति के आत्मीय संबंध को बयां करती है। इसकी हर रेखा में पीढ़ियों का समर्पण समाया हुआ है।"
+      },
+      "story": {
+        "title": {
+          "en": "Colors of the Sacred Forest",
+          "ta": "புனிதக் காட்டின் வண்ணங்கள்",
+          "hi": "पवित्र वन के रंग",
+          "mr": "पवित्र वनाचे रंग",
+          "bn": "পবিত্র অরণ্যের বর্ণালী",
+          "te": "పవిత్ర అరణ్య వర్ణాలు"
+        },
+        "intro": {
+          "en": "In the courtyards of Mithila, dawn breaks with the scent of wet clay, crushed marigold flowers, and stories handed down from grandmothers to daughters...",
+          "ta": "மிதிலையின் முற்றங்களில், ஈர மண்ணின் வாசத்தோடும், பிழிந்த சாமந்தி மலர்களின் மணத்தோடும் பாட்டிகள் பேத்திகளுக்கு சொல்லும் கதைகளோடு விடியல் பிறக்கிறது...",
+          "hi": "मिथिला के आंगनों में भोर की किरणें गीली मिट्टी की सोंधी खुशबू और गेंदे के फूलों के रंगों के साथ एक नई कहानी बुनती हैं..."
+        },
+        "chapters": [
+          {
+            "id": "m1",
+            "title": {
+              "en": "The Royal Wedding of Janaka",
+              "ta": "ஜனகரின் அரச திருமணம்",
+              "hi": "जनक का राजसी विवाह"
+            },
+            "content": {
+              "en": "When Lord Rama arrived to wed Sita, King Janaka asked his people to paint every mud wall with symbols of fertility, sun, moon, and lotus ponds so that the divine marriage would be celebrated by all creation.",
+              "ta": "ராமர் சீதையை மணக்க வந்தபோது, சூரியன், சந்திரன், தாமரைக் குளங்களை சுவர்களில் வரைந்து கொண்டாடுமாறு ஜனகர் பணித்தார்.",
+              "hi": "जब श्रीराम माता सीता से विवाह करने आए, तो राजा जनक ने प्रजा से दीवारों पर सूर्य, चंद्रमा और कमल दल चित्रित करने का आग्रह किया।"
+            }
+          },
+          {
+            "id": "m2",
+            "title": {
+              "en": "The Whispers of Natural Colors",
+              "ta": "இயற்கை வண்ணங்களின் மொழி",
+              "hi": "प्राकृतिक रंगों का स्पंदन"
+            },
+            "content": {
+              "en": "For centuries, artists never used synthetic paints. They crushed soot from oil lamps for deepest black, fresh turmeric for radiant yellow, and sap from acacia trees as adhesive binder.",
+              "ta": "நூற்றாண்டுகளாக எவ்வித செயற்கை வண்ணமும் பயன்படுத்தப்படவில்லை. விளக்குக் கரியும் மஞ்சள் சாறும் மட்டுமே அவர்களின் கருவிகளாக அமைந்தன.",
+              "hi": "शिल्पियों ने कभी रासायनिक रंगों का प्रयोग नहीं किया। दीयों की कालिख, ताजी हल्दी और बबूल का गोंद ही उनकी अमर कला के साधन बने।"
+            }
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "id": "mb_q1",
+          "question": {
+            "en": "Madhubani painting originated in which state of India?",
+            "ta": "மதுபானி ஓவியம் இந்தியாவின் எந்த மாநிலத்தில் தோன்றியது?",
+            "hi": "मधुबनी चित्रकला का उद्गम भारत के किस राज्य में हुआ?"
+          },
+          "options": {
+            "en": ["Bihar", "West Bengal", "Gujarat", "Kerala"],
+            "ta": ["பீகார்", "மேற்கு வங்கம்", "குஜராத்", "கேரளா"],
+            "hi": ["बिहार", "पश्चिम बंगाल", "गुजरात", "केरल"]
+          },
+          "correctIndex": 0,
+          "explanation": {
+            "en": "Madhubani art originates from the Mithila region of Bihar.",
+            "ta": "மதுபானி கலை பீகாரின் மிதிலை பகுதியில் தோன்றியது.",
+            "hi": "मधुबनी चित्रकला बिहार के मिथिला क्षेत्र की पारंपरिक कला है।"
+          }
+        },
+        {
+          "id": "mb_q2",
+          "question": {
+            "en": "What type of colors are traditionally used in authentic Madhubani paintings?",
+            "ta": "பாரம்பரிய மதுபானி ஓவியங்களில் என்ன வகையான வண்ணங்கள் பயன்படுத்தப்படுகின்றன?",
+            "hi": "पारंपरिक मधुबनी चित्रकला में किस प्रकार के रंगों का प्रयोग होता है?"
+          },
+          "options": {
+            "en": ["Synthetic acrylic paints", "100% Natural plant and mineral extracts", "Oil paints with chemical thinner", "Water soluble fluorescent dyes"],
+            "ta": ["செயற்கை அக்ரிலிக் பெயிண்ட்", "100% இயற்கை தாவர மற்றும் தாது சாறுகள்", "எண்ணெய் வண்ணங்கள்", "ஒளிரும் சாயங்கள்"],
+            "hi": ["सिंथेटिक एक्रिलिक रंग", "100% प्राकृतिक वनस्पति और खनिज रंग", "रासायनिक तेल रंग", "फ्लोरोसेंट डाई"]
+          },
+          "correctIndex": 1,
+          "explanation": {
+            "en": "Authentic Madhubani paintings strictly use natural dyes extracted from turmeric, indigo, soot, and flowers.",
+            "ta": "பாரம்பரிய ஓவியங்களில் மஞ்சள், அவுரி மற்றும் பூக்களிலிருந்து பிரித்தெடுக்கப்படும் இயற்கை வண்ணங்கள் மட்டுமே பயன்படுத்தப்படுகின்றன.",
+            "hi": "पारंपरिक मधुबनी में हल्दी, नील, कालिख और फूलों से तैयार प्राकृतिक रंगों का ही प्रयोग किया जाता है।"
+          }
+        },
+        {
+          "id": "mb_q3",
+          "question": {
+            "en": "Which unique environmental protection initiative utilized Madhubani art in 2012?",
+            "ta": "2012-ல் மரங்களைப் பாதுகாக்க மதுபானி கலை எவ்வாறு பயன்படுத்தப்பட்டது?",
+            "hi": "2012 में पर्यावरण संरक्षण के लिए मधुबनी कला का क्या अनूठा उपयोग किया गया?"
+          },
+          "options": {
+            "en": ["Painting banners for protests", "Painting deity portraits directly onto highway trees", "Exhibiting paintings in parliament", "Replacing plastic with canvas"],
+            "ta": ["போராட்ட பதாகைகள் வரைதல்", "நெடுஞ்சாலை மரங்களில் தெய்வ உருவங்களை வரைதல்", "நாடாளுமன்றத்தில் கண்காட்சி", "நெகிழிக்கு மாற்றாக கேன்வாஸ்"],
+            "hi": ["विरोध प्रदर्शन के पोस्टर", "सड़क किनारे पेड़ों पर देवी-देवताओं के चित्र बनाना", "संसद में प्रदर्शनी", "प्लास्टिक की जगह कैनवास"]
+          },
+          "correctIndex": 1,
+          "explanation": {
+            "en": "Artists painted highway trees with sacred Hindu deities so woodcutters would respect and refuse to chop them down.",
+            "ta": "மரங்களை வெட்டுவதைத் தடுக்க மரங்களின் மீது தெய்வ உருவங்கள் வரையப்பட்டன; மக்கள் பயபக்தியுடன் அவற்றை வெட்ட மறுத்தனர்.",
+            "hi": "कलाकारों ने पेड़ों के तनों पर देवी-देवताओं के चित्र बनाए ताकि धार्मिक आस्था के कारण लोग पेड़ों को न काटें।"
+          }
+        }
+      ],
+      "tags": ["Folk Art", "Bihar", "Mithila", "Natural Pigments", "GI Tag"]
+    },
+    "warli_art": {
+      "id": "warli_art",
+      "name": "Warli Tribal Folk Art",
+      "names": {
+        "en": "Warli Tribal Folk Art",
+        "ta": "வார்லி பழங்குடி நாட்டுப்புறக் கலை",
+        "hi": "वारली जनजातीय लोककला",
+        "mr": "वारली आदिवासी लोककला",
+        "bn": "ওয়ারলি উপজাতীয় লোকশিল্প",
+        "te": "వార్లీ గిరిజన సాంప్రదాయ కళ"
+      },
+      "location": "North Sahyadri Range, Maharashtra, India",
+      "locations": {
+        "en": "Maharashtra, India",
+        "ta": "மகாராஷ்டிரா, இந்தியா",
+        "hi": "महाराष्ट्र, भारत",
+        "mr": "महाराष्ट्र, भारत",
+        "bn": "মহারাষ্ট্র, ভারত",
+        "te": "మహారాష్ట్ర, భారతదేశం"
+      },
+      "state": "Maharashtra",
+      "period": "10th Century CE (Rooted in 2500 BCE)",
+      "category": "Traditional Art",
+      "imageUrl": "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?q=80&w=1200&auto=format&fit=crop",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?q=80&w=400&auto=format&fit=crop",
+      "confidenceScore": 95,
+      "verified": true,
+      "unescoStatus": "GI Protected Indigenous Heritage",
+      "overview": {
+        "en": "Warli painting is an ancient indigenous tribal art form created by the Warli tribe of Maharashtra. Characterized by stark white geometric forms on ochre mud backdrops, it depicts celebration of nature, harvest, and circular communal dances.",
+        "ta": "வார்லி ஓவியம் என்பது மகாராஷ்டிராவின் வார்லி பழங்குடியினரால் உருவாக்கப்பட்ட தொன்மையான கலை வடிவமாகும். செம்மண் பின்னணியில் வெள்ளை வடிவியல் உருவங்களால் இயற்கையையும், அறுவடையையும், வட்ட நடனங்களையும் சித்தரிக்கிறது.",
+        "hi": "वारली चित्रकला महाराष्ट्र की वारली जनजाति की प्राचीन लोककला है। गेरुए रंग की मिट्टी की दीवारों पर चावल के सफेद लेप से बने त्रिभुज, वृत्त और रेखाओं द्वारा प्रकृति, उत्सव और सामूहिक नृत्य का सजीव चित्रण किया जाता है।",
+        "mr": "वारली चित्रकला ही महाराष्ट्रातील आदिवासी संस्कृतीचे जागतिक स्तरावर गाजलेले प्रतीक आहे.",
+        "bn": "ওয়ারলি চিত্রকলা মহারাষ্ট্রের আদিবাসী সম্প্রদায়ের এক প্রাচীন ও প্রাঞ্জল লোকশিল্প।",
+        "te": "వార్లీ చిత్రకళ మహారాష్ట్ర గిరిజనుల విశిష్ట కళారూపం."
+      },
+      "culturalSignificance": {
+        "en": "The central motif of Warli art is the 'Tarpa Dance' — a spiraling circular dance reflecting the cycle of life without beginning or end. Unlike temple art, Warli art celebrates everyday human life, animals, agriculture, and Mother Goddess Palaghata (goddess of fertility).",
+        "ta": "வார்லி கலையின் முக்கிய அடையாளம் 'தார்பா நடனம்' ஆகும். இது தொடக்கமும் முடிவும் இல்லாத வாழ்க்கை சுழற்சியைக் குறிக்கும் சுழல் வட்ட நடனமாகும். அரசர்களையோ கோயில்களையோ அல்லாமல் மனித வாழ்வையும் இயற்கையையும் கொண்டாடுகிறது.",
+        "hi": "वारली कला का मुख्य आकर्षण 'तारपा नृत्य' है, जिसमें नर्तक एक वृत्त में घूमते हैं जो जीवन के अंतहीन चक्र का प्रतीक है। यह कला किसी पौराणिक युद्ध या राजा का नहीं, बल्कि प्रकृति और श्रमजीवी मनुष्य के उत्सव का आदर करती है।",
+        "mr": "तारपा वाद्याच्या तालावर फेर धरणारे स्त्री-पुरुष हे वारली चित्रांचे मुख्य वैशिष्ट्य आहे.",
+        "bn": "তারপা নৃত্য এবং গ্রামীণ জীবনযাত্রা ওয়ারলি চিত্রের প্রধান বিষয়।",
+        "te": "తార్పా నృత్యం ఈ చిత్రకళలోని జీవన చక్రాన్ని సూచిస్తుంది."
+      },
+      "history": {
+        "en": "While the tradition is believed to date back to Neolithic rock paintings (2500–3000 BCE), it gained global prominence in the 1970s through master painter Jivya Soma Mashe, who transitioned the ceremonial wall art onto paper and canvas.",
+        "ta": "நவீன வரலாற்றுக்கு முந்தைய பாறை ஓவியங்களின் தொடர்ச்சியாகக் கருதப்படும் இக்கலை, 1970களில் ஜிவ்யா சோமா மாஷே என்ற பழங்குடி ஓவியரின் மூலம் உலகப் புகழ்பெற்றது.",
+        "hi": "यद्यपि इसके मूल प्रागैतिहासिक शैलचित्रों से मिलते हैं, परंतु 1970 के दशक में पद्मश्री जीव्या सोमा माशे ने इसे कागज़ और कैनवास पर उतारकर वैश्विक मंच पर प्रतिष्ठा दिलाई।",
+        "mr": "पद्मश्री जीव्या सोमा माशे यांनी या कलेला आंतरराष्ट्रीय स्तरावर नेले.",
+        "bn": "জীব্যা সোমা মাশে এই লোকশিল্পকে বিশ্ব দরবারে পৌঁছে দেন।",
+        "te": "జీవ్యా సోమా మాషే ఈ కళకు అంతర్జాతీయ గుర్తింపు తెచ్చారు."
+      },
+      "architecture": {
+        "en": "The visual vocabulary uses only basic geometric shapes: circle (sun and moon), triangle (mountains and pointed trees), and square (sacred enclosure). Human and animal bodies are formed by two inverted triangles touching at tips, symbolizing cosmic balance between masculine and feminine energy.",
+        "ta": "வட்டம் (சூரியன், சந்திரன்), முக்கோணம் (மலைகள்), சதுரம் (புனித நிலம்) ஆகிய எளிய வடிவியல் உருவங்களே இதன் அடிப்படை. மனித உடல்கள் இரண்டு தலைகீழ் முக்கோணங்களால் ஆக்கப்பட்டு சமநிலையை உணர்த்துகின்றன.",
+        "hi": "इसकी दृश्य भाषा केवल तीन मूल ज्यामितियों पर आधारित है: वृत्त (सूर्य-चंद्रमा), त्रिभुज (पहाड़ और वृक्ष) और वर्ग (पवित्र स्थल)। दो विपरीत त्रिभुजों के मिलन से मानव आकृतियां बनाई जाती हैं जो सृष्टि के संतुलन को दर्शाती हैं।",
+        "mr": "त्रिकोण, वर्तुळ आणि चौरस या भूमितीय आकारांमधून ही चित्रे साकारली जातात.",
+        "bn": "বৃত্ত, ত্রিভুজ ও চতুর্ভুজের অপূর্ব জ্যামিতিক বিন্যাসে মানব ও প্রকৃতির সম্পর্ক আঁকা হয়।",
+        "te": "వృత్తం, త్రిభుజం మరియు చతురస్రాల కలయికతో ప్రకృతి సమతుల్యతను చూపుతారు."
+      },
+      "facts": {
+        "en": [
+          "The white pigment is made purely from rice flour paste mixed with water and natural gum.",
+          "The background is prepared with cow dung and red mud (geru), providing natural antiseptic qualities.",
+          "Warli paintings never depict mythological deities with weapons; nature itself is worshipped as God.",
+          "The Tarpa instrument played during the dance is crafted from dried gourd and bamboo."
+        ],
+        "ta": [
+          "வெள்ளை நிறத்திற்கு அரிசி மாவும் மரப்பிசினும் மட்டுமே பயன்படுத்தப்படுகின்றன.",
+          "பின்னணி செம்மண் மற்றும் சாணத்தால் பூசப்பட்டு கிருமி நாசினியாக செயல்படுகிறது.",
+          "வார்லி ஓவியங்களில் ஆயுதம் ஏந்திய கடவுள்கள் இருப்பதில்லை; இயற்கையே கடவுளாக வணங்கப்படுகிறது.",
+          "தார்பா இசைக்கருவி காய்ந்த சுரைக்காய் மற்றும் மூங்கிலால் செய்யப்படுகிறது."
+        ],
+        "hi": [
+          "सफेद रंग चावल के आटे और गोंद के मिश्रण से तैयार किया जाता है।",
+          "पृष्ठभूमि गाय के गोबर और गेरू से तैयार की जाती है, जो दीवारों को कीटों से बचाती है।",
+          "वारली कला में कभी किसी देवी-देवता को अस्त्र-शस्त्र के साथ नहीं दर्शाया जाता; प्रकृति ही ईश्वर है।",
+          "तारपा वाद्ययंत्र सूखी लौकी और बांस से बनाया जाता है।"
+        ],
+        "mr": [
+          "तांदळाच्या पिठापासून पांढरा रंग तयार केला जातो.",
+          "निसर्गाची पूजा हेच वारली कलेचे सार आहे."
+        ],
+        "bn": [
+          "চালের গুঁড়ো ও জল দিয়ে সাদা রঙ তৈরি করা হয়।",
+          "প্রকৃতির সাথে নিবিড় বন্ধনই এই শিল্পের মূল ভিত্তি।"
+        ],
+        "te": [
+          "బియ్యప్పిండితో తెలుపు రంగును తయారుచేస్తారు.",
+          "ప్రకృతిని దైవంగా పూజించడమే ఈ చిత్రాల ముఖ్య ఉద్దేశ్యం."
+        ]
+      },
+      "audioNarrationText": {
+        "en": "Discover the rhythmic beats of the Warli tribe from the Sahyadri mountains of Maharashtra. Painted in pure white rice paste against earthy red mud, these simple geometric triangles and circles celebrate the harmony of life. In the swirling circular Tarpa dance, no one is first and no one is last — reminding humanity that we are all part of nature's eternal circle.",
+        "ta": "மகாராஷ்டிராவின் சஹ்யாத்ரி மலைத்தொடரின் வார்லி பழங்குடியினரின் இசை நடனத்தை உணருங்கள். செம்மண் பின்னணியில் தூய வெள்ளை அரிசி மாவினால் வரையப்பட்ட இந்த வடிவியல் உருவங்கள் வாழ்வின் ஒற்றுமையைக் காட்டுகின்றன. தார்பா நடனத்தின் வட்ட சுழற்சியில் எவரும் முதன்மையானவரும் இல்லை, எவரும் கடைசியானவரும் இல்லை — நாம் அனைவரும் இயற்கையின் அங்கமே என்பதை இது உணர்த்துகிறது.",
+        "hi": "महाराष्ट्र के सह्याद्रि पर्वतों की वारली जनजाति की धड़कनों को महसूस कीजिए। मिट्टी की लाल दीवारों पर चावल के सफेद लेप से बने यह त्रिभुज और वृत्त जीवन की सहज सुंदरता को दर्शाते हैं। सामूहिक तारपा नृत्य के गोल घेरे में न कोई पहला है और न कोई अंतिम — यह कला हमें सिखाती है कि हम सब प्रकृति के महाचक्र का एक अभिन्न अंग हैं।"
+      },
+      "story": {
+        "title": {
+          "en": "The Song of the Tarpa",
+          "ta": "தார்பா இசைக்கருவியின் பாட்டு",
+          "hi": "तारपा का लोकगीत",
+          "mr": "तारप्याचे सूर",
+          "bn": "তারপার সুর",
+          "te": "తార్పా నాదం"
+        },
+        "intro": {
+          "en": "As twilight descends on the forested villages of Dahanu, the deep resonance of the Tarpa horn echoes across the paddy fields, calling all villagers to join hands in the circle of life...",
+          "ta": "தஹானுவின் காடுகளிலுள்ள கிராமங்களில் அந்தி சாயும்போது, நெல் வயல்களில் தார்பா இசைக்கருவியின் குரல் எதிரொலிக்கிறது; மக்கள் அனைவரும் கை கோர்த்து நடனமாட ஒன்று கூடுகின்றனர்...",
+          "hi": "दहानू के शांत जंगलों में जैसे ही गोधूलि वेला आती है, तारपा वाद्य की गूंज खेतों में फैल जाती है और सभी ग्रामवासी जीवन के इस चक्र में हाथ थामने दौड़े आते हैं..."
+        },
+        "chapters": [
+          {
+            "id": "w1",
+            "title": {
+              "en": "The Sacred Rice Dough",
+              "ta": "புனித அரிசி மாவு",
+              "hi": "चावल का पवित्र लेप"
+            },
+            "content": {
+              "en": "Savitri soaks newly harvested rice overnight, grinding it fine between two stones. Mixing it with fresh water and tree gum, she dips a chewed bamboo twig — her brush — to begin painting the story of the forest.",
+              "ta": "புதிய நெல் அரிசியை ஊறவைத்து, அரைத்து மரப்பிசின் கலந்து மூங்கில் குச்சியால் காட்டுக் கதைகளை சுவரில் வடிக்கிறாள் சாவித்திரி.",
+              "hi": "सावित्री ने धान के नए चावल भिगोकर पीसे और बबूल का गोंद मिलाकर बांस की तीली से वन और जीवन की गाथा उकेरना शुरू किया।"
+            }
+          },
+          {
+            "id": "w2",
+            "title": {
+              "en": "The Dance Without End",
+              "ta": "முடிவில்லா நடனம்",
+              "hi": "अखंड नृत्य"
+            },
+            "content": {
+              "en": "In the center stands the Tarpa player. The dancers intertwine fingers and form a great spiraling serpent that sways with the wind, celebrating that joy is never solitary, but shared by the entire community.",
+              "ta": "மையத்தில் தார்பா வாசிப்பவர் நிற்க, மக்கள் கை கோர்த்து பெருஞ்சுருளாக காற்றில் அசையும் பாம்பைப் போல் நடனமாடி மகிழ்ச்சியைப் பகிர்ந்துகொள்கின்றனர்.",
+              "hi": "मध्य में तारपा वादक है और चारों ओर हाथ में हाथ डाले नर्तक। यह नृत्य बताता है कि आनंद कभी एकांत नहीं, बल्कि संपूर्ण समुदाय का साझा उत्सव है।"
+            }
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "id": "wl_q1",
+          "question": {
+            "en": "What primary material is used to create the white pigment in Warli art?",
+            "ta": "வார்லி ஓவியங்களில் வெள்ளை நிறம் உண்டாக்க பயன்படும் முதன்மைப் பொருள் எது?",
+            "hi": "वारली चित्रकला में सफेद रंग बनाने के लिए मुख्य रूप से क्या प्रयोग किया जाता है?"
+          },
+          "options": {
+            "en": ["Crushed seashells", "Rice flour paste and water", "White chalk powder", "Lime stone solution"],
+            "ta": ["சிப்பி தூள்", "அரிசி மாவு மற்றும் தண்ணீர்", "சுண்ணாம்பு தூள்", "வெள்ளை சுண்ணக்கட்டி"],
+            "hi": ["समुद्री सीप", "चावल का आटा और पानी", "सफेद खड़िया पाउडर", "चूने का घोल"]
+          },
+          "correctIndex": 1,
+          "explanation": {
+            "en": "Warli artists use finely grounded rice flour mixed with water and natural gum binder.",
+            "ta": "அரிசி மாவு மற்றும் தண்ணீரில் மரப்பிசின் கலந்து வெள்ளை வண்ணம் செய்யப்படுகிறது.",
+            "hi": "वारली कलाकार चावल के बारीक पिसे आटे में पानी और गोंद मिलाकर सफेद रंग तैयार करते हैं।"
+          }
+        },
+        {
+          "id": "wl_q2",
+          "question": {
+            "en": "What does the interlocking circular 'Tarpa Dance' symbolize in Warli culture?",
+            "ta": "வார்லி கலாச்சாரத்தில் 'தார்பா நடனம்' எதனை அடையாளப்படுத்துகிறது?",
+            "hi": "वारली संस्कृति में गोल घेरे में किया जाने वाला 'तारपा नृत्य' किसका प्रतीक है?"
+          },
+          "options": {
+            "en": ["Military victory", "The endless cycle of life and cosmic unity", "Arrival of royal guests", "Defeat of forest predators"],
+            "ta": ["போர் வெற்றி", "வாழ்வின் முடிவில்லா சுழற்சி மற்றும் ஒற்றுமை", "அரச விருந்தினர் வரவேற்பு", "காட்டு விலங்குகளை விரட்டுதல்"],
+            "hi": ["सैन्य विजय", "जीवन का अंतहीन चक्र और सामाजिक एकता", "राजकीय स्वागत", "शिकार का उत्सव"]
+          },
+          "correctIndex": 1,
+          "explanation": {
+            "en": "The spiral circle has no start and no end, symbolizing the eternal continuity of existence.",
+            "ta": "தொடக்கமும் முடிவும் இல்லாத இந்த சுழல் வாழ்க்கை சுழற்சியையும் பிரபஞ்ச ஒற்றுமையையும் குறிக்கிறது.",
+            "hi": "यह चक्र जन्म-मृत्यु और प्रकृति के अंतहीन प्रवाह और परस्पर एकता का प्रतीक है।"
+          }
+        },
+        {
+          "id": "wl_q3",
+          "question": {
+            "en": "How are human bodies uniquely depicted in Warli art?",
+            "ta": "வார்லி ஓவியங்களில் மனித உடல்கள் எவ்வாறு தனித்துவமாக சித்தரிக்கப்படுகின்றன?",
+            "hi": "वारली चित्रों में मानव आकृतियां किस प्रकार विशिष्ट रूप से बनाई जाती हैं?"
+          },
+          "options": {
+            "en": ["Two inverted triangles touching at tips", "A single rectangle", "Oval fluid silhouettes", "Three concentric circles"],
+            "ta": ["முனைகள் தொடும் இரண்டு தலைகீழ் முக்கோணங்கள்", "ஒற்றை செவ்வகம்", "நீள்வட்ட நிழல் வடிவம்", "மூன்று ஒருமுக வட்டங்கள்"],
+            "hi": ["कोनों पर जुड़े दो विपरीत त्रिभुज", "एक सरल आयत", "दीर्घवृत्ताकार आकृति", "तीन संकेंद्री वृत्त"]
+          },
+          "correctIndex": 0,
+          "explanation": {
+            "en": "Two inverted triangles touch at their tips to form the torso and lower body, expressing balance.",
+            "ta": "இரண்டு முக்கோணங்கள் முனைகளில் இணைந்து உடலின் சமநிலையைக் குறிக்கின்றன.",
+            "hi": "दो विपरीत त्रिभुज एक बिंदु पर मिलकर धड़ और शरीर की रचना करते हैं, जो प्रकृति के संतुलन का प्रतीक है।"
+          }
+        }
+      ],
+      "tags": ["Tribal Art", "Maharashtra", "Rice Paste", "Tarpa Dance", "Folk Tradition"]
+    },
+    "chola_nataraja": {
+      "id": "chola_nataraja",
+      "name": "Chola Bronze Nataraja",
+      "names": {
+        "en": "Chola Bronze Nataraja",
+        "ta": "சோழர் கால வெண்கல நடராஜர்",
+        "hi": "चोल कांस्य नटराज प्रतिमा",
+        "mr": "चोल कांस्य नटराज मूर्ती",
+        "bn": "চোল ব্রোঞ্জ নটরাজ মূর্তি",
+        "te": "చోళ కాంస్య నటరాజ విగ్రహం"
+      },
+      "location": "Thanjavur / Chidambaram, Tamil Nadu, India",
+      "locations": {
+        "en": "Tamil Nadu, India",
+        "ta": "தமிழ்நாடு, இந்தியா",
+        "hi": "तमिलनाडु, भारत",
+        "mr": "तमिळनाडू, भारत",
+        "bn": "তামিলনাড়ু, ভারত",
+        "te": "తమిళనాడు, భారతదేశం"
+      },
+      "state": "Tamil Nadu",
+      "period": "10th - 11th Century CE (Chola Golden Age)",
+      "category": "Sculptures",
+      "imageUrl": "https://images.unsplash.com/photo-1567157577867-05ccb1388e66?q=80&w=1200&auto=format&fit=crop",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1567157577867-05ccb1388e66?q=80&w=400&auto=format&fit=crop",
+      "confidenceScore": 98,
+      "verified": true,
+      "unescoStatus": "Masterpiece of World Bronze Sculpture",
+      "overview": {
+        "en": "The Chola Bronze Nataraja is the supreme masterwork of Indian metallurgical art. Cast using the lost-wax (cire-perdue) technique during the Imperial Chola dynasty, it portrays Lord Shiva as the Cosmic Dancer performing the Ananda Tandava.",
+        "ta": "சோழர் கால வெண்கல நடராஜர் சிலை உலக உலோகச் சிற்பக்கலையின் உச்சக்கட்ட சாதனையாகும். இம்பீரியல் சோழப் பேரரசில் மெழுகு வார்ப்பு முறையில் வடிக்கப்பட்ட இச்சிலை, சிவபெருமான் ஆனந்த தாண்டவம் ஆடும் கோலத்தை காட்சிப்படுத்துகிறது.",
+        "hi": "चोल कांस्य नटराज भारतीय धातुकर्म और मूर्तिकला का सर्वोच्च शिखर है। चोल साम्राज्य के स्वर्णकाल में लॉस्ट-वैक्स तकनीक से निर्मित यह प्रतिमा भगवान शिव के आनंद तांडव का आलौकिक स्वरूप है।",
+        "mr": "चोल काळातील कांस्य नटराज मूर्ती ही भारतीय शिल्पकलेचा अजोड आविष्कार आहे.",
+        "bn": "চোল সাম্রাজ্যের ব্রোঞ্জ নির্মিত নটরাজ মূর্তি ভারতীয় ধাতব ভাস্কর্যের অবিসংবাদিত শ্রেষ্ঠ নিদর্শন।",
+        "te": "చోళుల కాలం నాటి కాంస్య నటరాజ శిల్పం భారతీయ లోహ కళా నైపుణ్యానికి పరాకాష్ట."
+      },
+      "culturalSignificance": {
+        "en": "Nataraja encapsulates five cosmic acts (Pancha Kritya): Srishti (Creation, symbolized by the Damaru drum), Sthiti (Preservation, Abhaya mudra), Samhara (Destruction, Fire in hand), Tirobhava (Illusion, foot on dwarf Apasmara), and Anugraha (Grace/Salvation, raised foot). Renowned physicist Fritjof Capra famously compared this dance to modern quantum subatomic physics.",
+        "ta": "நடராஜர் ஐந்து பிரபஞ்ச செயல்களை (பஞ்ச கிருத்யம்) உணர்த்துகிறார்: படைத்தல் (உடுக்கை), காத்தல் (அபய கரம்), அழித்தல் (அக்னி), மறைத்தல் (முயலகன் மீது ஊன்றிய பாதம்), அருளல் (தூக்கிய திருவடி). நவீன அணு இயற்பியல் அறிஞரான ஃபிரிட்ஜோஃப் காப்ரா இதனை துணை அணு துகள்களின் பிரபஞ்ச நடனத்துடன் ஒப்பிட்டுள்ளார்.",
+        "hi": "नटराज भगवान शिव के पंचकृत्य का निरूपण करते हैं: सृष्टि (डमरू), स्थिति (अभय मुद्रा), संहार (अग्नि), तिरोभाव (अपस्मार पर पद) और अनुग्रह (उठा हुआ चरण)। प्रख्यात वैज्ञानिक फ्रिटजोफ काप्रा ने इस नृत्य की तुलना आधुनिक क्वांटम भौतिकी के उप-परमाण्विक कणों के नृत्य से की है।",
+        "mr": "सृष्टी, स्थिती, संहार, तिरोभाव आणि अनुग्रह या पंचकृत्यांचे हे मूर्तिमंत प्रतीक आहे.",
+        "bn": "নটরাজের এই মহাজাগতিক নৃত্য সৃষ্টির উৎপত্তি ও ধ্বংসের অনন্ত লীলাখেলা প্রকাশ করে।",
+        "te": "సృష్టి, స్థితి, లయ, తిరోధాన, అనుగ్రహాలనే పంచకృత్యాలకు ఈ నటరాజ నృత్యం ప్రతీక."
+      },
+      "history": {
+        "en": "Patronized extensively by Queen Sembiyan Mahadevi and Emperor Rajaraja Chola I between 950 and 1050 CE, Tamil Sthapatis perfected bronze alloy casting to create figures possessing lifelike rhythm, divine balance, and timeless majesty.",
+        "ta": "கி.பி. 950 - 1050 காலகட்டத்தில் பேரரசி செம்பியன் மாதேவி மற்றும் முதலாம் இராஜராஜ சோழனின் பேராதரவுடன், தமிழ் ஸ்தபதிகள் மெழுகு வார்ப்பு முறையில் உலகமே வியக்கும் இந்த அரிய வெண்கலச் சிற்பங்களை வார்த்தனர்.",
+        "hi": "950 से 1050 ईस्वी के मध्य महारानी सेम्बियन महादेवी और सम्राट राजराज चोल के संरक्षण में तमिल स्थपतियों ने लॉस्ट-वैक्स पद्धति से इन अनुपम कांस्य प्रतिमाओं का निर्माण किया।",
+        "mr": "राणी सेम्बियन महादेवी आणि सम्राट राजराज चोल यांच्या काळात या मूर्तींची निर्मिती झाली.",
+        "bn": "চোল রাজবংশের প্রত্যক্ষ পৃষ্ঠপোষকতায় তামিল শিল্পীরা ব্রোঞ্জের এই অনন্য রূপ তৈরি করেন।",
+        "te": "మహారాణి సెంబియన్ మహాదేవి మరియు రాజరాజ చోళుని ఆదరణతో ఈ శిల్పాలు రూపుదిద్దుకున్నాయి."
+      },
+      "architecture": {
+        "en": "Cast with 'Panchaloha' (five sacred metals: copper, zinc, lead, gold, silver), the statue sits within the flaming halo (Prabhamandala) symbolizing the universe. Shiva balances on the demon of ignorance (Apasmara Purusha), while his flying dreadlocks hold Goddess Ganga and the crescent moon.",
+        "ta": "பஞ்சலோகம் (செம்பு, பித்தளை, ஈயம், தங்கம், வெள்ளி) கொண்டு வார்க்கப்பட்டது. பிரபஞ்சத்தை குறிக்கும் திருவாசியின் (நெருப்பு வட்டம்) நடுவே நடனமாடுகிறார். அறியாமை அசுரனான முயலகனை காலடியில் மிதித்து, சடாமுடியில் கங்கையையும் பிறைநிலவையும் தாங்கியுள்ளார்.",
+        "hi": "यह 'पंचधातु' (तांबा, जस्ता, सीसा, सोना, चांदी) के दिव्य अनुपात से निर्मित है। चारों ओर की अग्निमाला (प्रभामंडल) संपूर्ण ब्रह्मांड का प्रतीक है। शिव अज्ञान के प्रतीक असुर 'अपस्मार' पर पैर रखकर नृत्य कर रहे हैं और उनकी जटाओं में गंगा और अर्धचंद्र विराजमान हैं।",
+        "mr": "पंचधातूंच्या अद्वितीय मिश्रणातून आणि प्रभामंडळाच्या तेजातून ही मूर्ती घडवली आहे.",
+        "bn": "পঞ্চধাতু দিয়ে তৈরি এই মূর্তির চারপাশের অগ্নিবলয় মহাবিশ্বের প্রতীক।",
+        "te": "పంచలోహాలతో తయారైన ఈ శిల్పం చుట్టూ ఉండే అగ్ని వలయం విశ్వాన్ని సూచిస్తుంది."
+      },
+      "facts": {
+        "en": [
+          "A 2-meter statue of Chola Nataraja was gifted by the Indian Government to CERN in Geneva, Switzerland, symbolizing the dance of subatomic particles.",
+          "Cast via the lost-wax process, each bronze is a one-of-a-kind original since the clay mold must be broken to release the statue.",
+          "The dwarf beneath Shiva's right foot is Apasmara, representing human ignorance, forgetfulness, and arrogance.",
+          "The fire in the upper left palm represents transformation and cosmic dissolution."
+        ],
+        "ta": [
+          "சுவிட்சர்லாந்தின் ஜெனீவாவில் உள்ள ஐரோப்பிய அணு ஆராய்ச்சி மையத்திற்கு (CERN) இந்திய அரசால் 2 மீட்டர் நடராஜர் சிலை பரிசளிக்கப்பட்டு அங்கு நிறுவப்பட்டுள்ளது.",
+          "ஒவ்வொரு சிலையும் தனித்துவமானது; மெழுகு வார்ப்பை உடைத்து எடுப்பதால் உலகில் இரண்டு ஒரே மாதிரியான சோழர் சிலைகள் இருக்க முடியாது.",
+          "வலது பாதத்திற்கு அடியில் இருக்கும் முயலகன் என்பது மனித அறியாமையையும் மமதையையும் குறிக்கிறது.",
+          "இடது கையில் ஏந்தியுள்ள அக்னி மறுபடைப்புக்கான அழிவையும் மாற்றத்தையும் குறிக்கிறது."
+        ],
+        "hi": [
+          "स्विट्जरलैंड के जिनेवा स्थित सर्न (CERN - विश्व की सबसे बड़ी भौतिकी प्रयोगशाला) में भारत सरकार द्वारा 2 मीटर ऊंची नटराज प्रतिमा स्थापित की गई है।",
+          "लॉस्ट-वैक्स पद्धति के कारण प्रत्येक कांस्य मूर्ति अद्वितीय होती है, क्योंकि मूर्ति निकालने के लिए मिट्टी का सांचा तोड़ना पड़ता है।",
+          "शिव के दाहिने पैर के नीचे दबा बौना दानव 'अपस्मार' मानव के अज्ञान और अहंकार का प्रतीक है।",
+          "बाईं हथेली में प्रज्वलित अग्नि संहार और पुनर्जन्म का प्रतीक है।"
+        ],
+        "mr": [
+          "जिनेव्हा येथील CERN प्रयोगशाळेत भारताने नटराजाची भव्य मूर्ती भेट दिली आहे.",
+          "ही मूर्ती पंचधातूंच्या साच्यातून तयार केली जाते."
+        ],
+        "bn": [
+          "জেনেভার সার্ন (CERN) গবেষণাগারে ভারতীয় চোল নটরাজের বিশালাকার ভাস্কর্য শোভা পাচ্ছে।",
+          "প্রতিটি মূর্তি একক এবং অতুলনীয়।"
+        ],
+        "te": [
+          "స్విట్జర్లాండ్‌లోని సెర్న్ (CERN) సంస్థలో భారత ప్రభుత్వం బహూకరించిన నటరాజ విగ్రహం ఉంది.",
+          "అజ్ఞానాన్ని తొలగించే దివ్య శిల్పం ఇది."
+        ]
+      },
+      "audioNarrationText": {
+        "en": "Witness the divine rhythm of the Chola Bronze Nataraja from Tamil Nadu. Cast through the lost-wax technique over a thousand years ago, this image captures the supreme deity Shiva engaged in the cosmic dance of creation and dissolution. In his right hand, the drum sounds the first heartbeat of the cosmos; in his left, the fire promises renewal. Standing victorious over ignorance, Nataraja invites all seekers to dance with the universe.",
+        "ta": "தமிழ்நாட்டின் மாண்புமிகு சோழர் வெண்கல நடராஜரின் தெய்வீக தாளத்தைக் கேளுங்கள். ஆயிரத்திற்கும் மேற்பட்ட ஆண்டுகளுக்கு முன்பு மெழுகு வார்ப்பு முறையில் வடிக்கப்பட்ட இந்த உன்னத சிலை, படைப்பும் அழிவும் கூடிவரும் பிரபஞ்ச நடனத்தை கண்முன் நிறுத்துகிறது. உடுக்கை பிரபஞ்சத்தின் முதல் துடிப்பை ஒலிக்கச் செய்கிறது; அக்னி மறுமலர்ச்சியை வாக்களிக்கிறது. அறியாமையை வென்று நிற்கும் நடராஜர், பிரபஞ்சத்தோடு இணைந்து இயங்க நம்மை அழைக்கிறார்.",
+        "hi": "तमिलनाडु के ऐतिहासिक चोल साम्राज्य की कांस्य नटराज प्रतिमा के दिव्य स्पंदन का अनुभव करें। एक सहस्राब्दी पूर्व ढाली गई यह प्रतिमा भगवान शिव के ब्रह्मांडीय तांडव का साकार रूप है। दाएं हाथ का डमरू सृष्टि के प्रथम स्पंदन को ध्वनित करता है, तो बाएं हाथ की अग्नि नवसृजन का संकल्प लेती है। अज्ञान पर विजय प्राप्त कर नटराज हमें ब्रह्मांड के साथ एकाकार होने का संदेश देते हैं।"
+      },
+      "story": {
+        "title": {
+          "en": "The Cosmic Dance of Fire and Silence",
+          "ta": "நெருப்பும் மௌனமும் கலந்த பேரானந்த நடனம்",
+          "hi": "अग्नि और मौन का ब्रह्मांडीय तांडव",
+          "mr": "अग्नी आणि शांततेचे तांडव",
+          "bn": "অগ্নি ও স্তব্ধতার মহাজাগতিক নৃত্য",
+          "te": "అగ్ని మరియు నిశ్శబ్ద దివ్య నాట్యం"
+        },
+        "intro": {
+          "en": "In the golden temple halls of Chidambaram, silence breathes as bronze smiths melt sacred metals, pouring molten copper into beeswax molds to shape the god who dances the universe into being...",
+          "ta": "சிதம்பரத்தின் பொன்னம்பல மண்டபங்களில், மெழுகுச் சிலையில் உருகிய செம்பை ஊற்றி, உலகையே நடனமாக்கும் இறைவனை வார்க்கும் ஸ்தபதிகளின் பக்தி மௌனமாக ஒலிக்கிறது...",
+          "hi": "चिदंबरम के स्वर्ण मंदिर के प्रांगण में मौन गूंज रहा है, जहां धातु शिल्पी मोम के सांचे में पिघला हुआ तांबा ढालकर उस ईश्वर को साकार कर रहे हैं जो समूचे ब्रह्मांड को नचाता है..."
+        },
+        "chapters": [
+          {
+            "id": "cn1",
+            "title": {
+              "en": "The Golden Halo of Flames",
+              "ta": "சுடர்விடும் திருவாசி",
+              "hi": "ज्वालाओं का प्रभामंडल"
+            },
+            "content": {
+              "en": "Master Sthapati carved the flaming arch with exactly 51 tongues of fire, representing the letters of the ancient alphabet and the cosmic energy expanding through space without beginning or end.",
+              "ta": "தலைமை ஸ்தபதி திருவாசியில் 51 நெருப்புச் சுடர்களை வடித்தார்; இது பிரபஞ்சத்தில் ஓயாமல் சுழலும் பேராற்றலைக் குறிக்கிறது.",
+              "hi": "प्रधान स्थपति ने प्रभामंडल में 51 अग्नि ज्वालाएं उकेरीं, जो ब्रह्मांड में निरंतर गतिमान ऊर्जा का प्रतीक हैं।"
+            }
+          },
+          {
+            "id": "cn2",
+            "title": {
+              "en": "The Dance at CERN",
+              "ta": "செர்ன் ஆய்வகத்தில் ஒலிக்கும் சிலம்பு",
+              "hi": "सर्न में शिव का तांडव"
+            },
+            "content": {
+              "en": "Centuries later, at the world's most advanced physics lab in Switzerland, scientists gaze at this statue each day — recognizing that what ancient Indian masters saw through spiritual meditation is precisely what particle accelerators reveal today.",
+              "ta": "நூற்றாண்டுகளுக்குப் பிறகு சுவிட்சர்லாந்தின் விஞ்ஞானிகள் இந்த சிலையைக் கண்டு வியக்கின்றனர்; அணுக்களின் நடனத்தையே சோழர் சிலை பறைசாற்றுகிறது என்பதை உணர்கின்றனர்.",
+              "hi": "सदियों बाद स्विट्जरलैंड की विश्व प्रसिद्ध भौतिकी प्रयोगशाला में वैज्ञानिक इस प्रतिमा को देखकर चकित हैं कि प्राचीन ऋषियों ने ध्यान से वही सत्य जान लिया था जो आज महात्वरक मशीनें सिद्ध कर रही हैं।"
+            }
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "id": "cn_q1",
+          "question": {
+            "en": "Which casting method was utilized to craft Chola bronze sculptures?",
+            "ta": "சோழர் வெண்கலச் சிற்பங்களை வார்க்கப் பயன்படுத்தப்பட்ட தொழில்நுட்பம் எது?",
+            "hi": "चोल कांस्य मूर्तियों के निर्माण में किस तकनीक का प्रयोग किया गया था?"
+          },
+          "options": {
+            "en": ["Lost-wax casting (Cire-perdue)", "Sand mold press", "Stone hammering", "Cold metal forging"],
+            "ta": ["மெழுகு வார்ப்பு முறை (Cire-perdue)", "மணல் அச்சு முறை", "கல் செதுக்கல்", "குளிர் உலோக அடித்தல்"],
+            "hi": ["लॉस्ट-वैक्स पद्धति (मधूच्छिष्ट विधान)", "बालू का सांचा", "पत्थर पर नक्काशी", "कोल्ड मेटल फोर्जिंग"]
+          },
+          "correctIndex": 0,
+          "explanation": {
+            "en": "The lost-wax method involves creating a detailed beeswax model, covering it with alluvial clay, baking it to melt the wax out, and pouring molten bronze into the hollow chamber.",
+            "ta": "மெழுகில் சிலை செய்து, களிமண் பூசி, மெழுகை உருக்கி அகற்றிவிட்டு உருக்கிய வெண்கலத்தை ஊற்றி வார்க்கும் முறை.",
+            "hi": "मोम का मॉडल बनाकर उस पर मिट्टी का लेप लगाया जाता था, फिर मोम पिघलाकर पिघली हुई धातु भरी जाती थी।"
+          }
+        },
+        {
+          "id": "cn_q2",
+          "question": {
+            "en": "What does the dwarf demon Apasmara beneath Shiva's foot represent?",
+            "ta": "சிவபெருமானின் பாதத்திற்கு அடியில் உள்ள முயலகன் எதனை குறிக்கிறான்?",
+            "hi": "शिव के चरण तले दबा हुआ अपस्मार दानव किसका प्रतिनिधित्व करता है?"
+          },
+          "options": {
+            "en": ["Physical fatigue", "Human ignorance and arrogance", "Poverty and drought", "Winter darkness"],
+            "ta": ["உடல் சோர்வு", "மனித அறியாமை மற்றும் ஆணவம்", "வறுமை மற்றும் வறட்சி", "குளிர்கால இருள்"],
+            "hi": ["शारीरिक थकान", "मानव का अज्ञान और अहंकार", "दरिद्रता और अकाल", "शीतकालीन अंधकार"]
+          },
+          "correctIndex": 1,
+          "explanation": {
+            "en": "Apasmara symbolizes ignorance (avidya) and spiritual blindness, which is suppressed by divine wisdom.",
+            "ta": "முயலகன் அறியாமையையும் அகந்தையையும் குறிக்கிறான்; ஞானத்தினால் அது நசுக்கப்படுகிறது.",
+            "hi": "अपस्मार मनुष्य के अज्ञान और अहंकार का प्रतीक है जिसे ज्ञान द्वारा नियंत्रित किया जाता है।"
+          }
+        },
+        {
+          "id": "cn_q3",
+          "question": {
+            "en": "At which international scientific institution in Geneva is a giant Chola Nataraja statue installed?",
+            "ta": "ஜெனீவாவில் உள்ள எந்த சர்வதேச அறிவியல் மையத்தில் பிரம்மாண்ட நடராஜர் சிலை நிறுவப்பட்டுள்ளது?",
+            "hi": "जिनेवा की किस अंतरराष्ट्रीय वैज्ञानिक संस्था में विशाल नटराज प्रतिमा स्थापित है?"
+          },
+          "options": {
+            "en": ["CERN (European Organization for Nuclear Research)", "NASA Headquarters", "World Health Organization", "International Space Station"],
+            "ta": ["செர்ன் (CERN - ஐரோப்பிய அணு ஆராய்ச்சி மையம்)", "நாசா தலைமையகம்", "உலக சுகாதார நிறுவனம்", "சர்வதேச விண்வெளி நிலையம்"],
+            "hi": ["सर्न (CERN - यूरोपियन न्यूक्लियर रिसर्च सेंटर)", "नासा मुख्यालय", "विश्व स्वास्थ्य संगठन", "अंतरराष्ट्रीय अंतरिक्ष स्टेशन"]
+          },
+          "correctIndex": 0,
+          "explanation": {
+            "en": "CERN in Geneva has the Chola Nataraja prominently displayed to symbolize the cosmic dance of subatomic particles.",
+            "ta": "துணை அணு துகள்களின் பிரபஞ்ச இயக்கத்தை அடையாளப்படுத்தும் வகையில் செர்ன் மையத்தில் நடராஜர் சிலை வைக்கப்பட்டுள்ளது.",
+            "hi": "सर्न में उप-परमाण्विक कणों के निरंतर गतिमान ब्रह्मांडीय नृत्य के सम्मान में यह प्रतिमा लगाई गई है।"
+          }
+        }
+      ],
+      "tags": ["Chola Bronze", "Nataraja", "Tamil Nadu", "Panchaloha", "CERN"]
+    },
+    "banarasi_silk": {
+      "id": "banarasi_silk",
+      "name": "Banarasi Brocade Silk",
+      "names": {
+        "en": "Banarasi Brocade Silk",
+        "ta": "பனாரசி பட்டு நெசவு",
+        "hi": "बनारसी ब्रोकेड रेशम",
+        "mr": "बनारसी ब्रोकेड रेशीम",
+        "bn": "বেনারসি ব্রোকেড সিল্ক",
+        "te": "బనారసీ పట్టు చేనేత"
+      },
+      "location": "Varanasi (Kashi), Uttar Pradesh, India",
+      "locations": {
+        "en": "Varanasi, Uttar Pradesh, India",
+        "ta": "வாரணாசி, உத்திரப் பிரதேசம், இந்தியா",
+        "hi": "वाराणसी, उत्तर प्रदेश, भारत",
+        "mr": "वाराणसी, उत्तर प्रदेश, भारत",
+        "bn": "বারাণসী, উত্তর প্রদেশ, ভারত",
+        "te": "వారణాసి, ఉత్తర ప్రదేశ్, భారతదేశం"
+      },
+      "state": "Uttar Pradesh",
+      "period": "Antiquity / Mughal Golden Era (16th Century)",
+      "category": "Textiles",
+      "imageUrl": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?q=80&w=1200&auto=format&fit=crop",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?q=80&w=400&auto=format&fit=crop",
+      "confidenceScore": 93,
+      "verified": true,
+      "unescoStatus": "GI Protected Handloom Heritage",
+      "overview": {
+        "en": "Banarasi silk is one of India's most opulent textile traditions, handwoven in the holy city of Varanasi. Famed for its gold and silver zari brocade, heavy fine mulberry silk, and intricate Mughal and floral Persian motifs, a single saree can take months to weave.",
+        "ta": "பனாரசி பட்டு என்பது வாரணாசியில் கைத்தறியால் நெய்யப்படும் இந்தியாவின் உன்னதமான ஆடைப் பாரம்பரியமாகும். தங்கம் மற்றும் வெள்ளி ஜரிகை, மல்பெரி பட்டு மற்றும் அழகிய மலர் வேலைப்பாடுகளுக்கு புகழ்பெற்றது.",
+        "hi": "बनारसी रेशम भारत की सबसे समृद्ध वस्त्र परंपराओं में से एक है, जो पवित्र काशी नगरी में हथकरघे पर बुनी जाती है। शुद्ध सोने और चांदी की जरी, महीन रेशम और जटिल पुष्प रूपांकनों से सुसज्जित एक साड़ी को बनाने में कई महीनों का समय लगता है।",
+        "mr": "बनारसी रेशीम ही वाराणसीची जगप्रसिद्ध वस्त्रकला आहे.",
+        "bn": "বেনারসি শাড়ি ভারতের বয়নশিল্পের এক অনন্য রাজকীয় অহংকার।",
+        "te": "బనారసీ పట్టు వారణాసిలోని నేత కార్మికుల అద్భుత సృష్టి."
+      },
+      "culturalSignificance": {
+        "en": "Considered an indispensable part of Indian bridal trousseau and heirlooms passed through generations. It represents the historic confluence of Vedic craftsmanship and Persian Islamic weaving techniques nurtured along the banks of the sacred River Ganga.",
+        "ta": "இந்திய திருமணங்களில் மணப்பெண்ணின் பிரதான ஆடையாகவும் தலைமுறை தலைமுறையாக பாதுகாக்கப்படும் பொக்கிஷமாகவும் கருதப்படுகிறது. கங்கை நதிக்கரையில் வேத மரபும் பாரசீக நெசவு நுட்பங்களும் கைகோர்த்த கலாச்சார சங்கமம் இதுவாகும்.",
+        "hi": "भारतीय विवाहों में दुल्हन के श्रृंगार का यह अनिवार्य अंग है और पीढ़ियों तक धरोहर के रूप में सहेजा जाता है। यह पवित्र गंगा के तट पर वैदिक कला और फारसी बुनाई शैलियों के ऐतिहासिक समन्वय का सुंदर प्रतीक है।",
+        "mr": "भारतीय लग्नसमारंभात बनारसी साडीला अनन्यसाधारण महत्त्व आहे.",
+        "bn": "বাঙালি বিয়েতে এবং ভারতীয় নারীর সাজে বেনারসির স্থান অদ্বিতীয়।",
+        "te": "భారతీయ వివాహాలలో పెళ్లికూతురి వస్త్రధారణకు బనారసీ పట్టు వన్నె తెస్తుంది."
+      },
+      "history": {
+        "en": "References to fine Kashi silk date back to the Rigveda and Buddhist Jataka tales (reporting the Buddha's body was wrapped in Varanasi cloth). Under Mughal Emperor Akbar in the 16th century, Persian master weavers migrated to Varanasi, intertwining gold brocade with Indian silk.",
+        "ta": "ரிக்வேதம் மற்றும் பௌத்த ஜாதகக் கதைகளில் காசி பட்டின் பெருமை குறிப்பிடப்பட்டுள்ளது. 16-ஆம் நூற்றாண்டில் முகலாயப் பேரரசர் அக்பரின் ஆட்சியில் பாரசீக நெசவாளர்கள் வாரணாசிக்கு வந்து தங்க ஜரிகை வேலைப்பாடுகளை அறிமுகப்படுத்தினர்.",
+        "hi": "काशी के रेशम का उल्लेख ऋग्वेद और बौद्ध जातक कथाओं में मिलता है, जहां महात्मा बुद्ध के देह को वाराणसी के महीन वस्त्रों में लपेटे जाने की बात कही गई है। 16वीं शताब्दी में मुगल काल में सोने-चांदी की जरी बुनाई ने इसे विश्वभर में प्रसिद्ध किया।",
+        "mr": "ऋग्वेद आणि बौद्ध जातक कथांमध्येही काशीच्या रेशमाचा उल्लेख आढळतो.",
+        "bn": "ঋগ্বেদ ও বৌদ্ধ জাতকের গল্পে কাশী বা বারাণসীর বস্ত্রের উল্লেখ রয়েছে।",
+        "te": "ఋగ్వేదం మరియు బౌద్ధ జాతక కథలలో కాశీ పట్టు వస్త్రాల ప్రస్తావన ఉంది."
+      },
+      "architecture": {
+        "en": "Woven on traditional pit looms using Jacquard and drawloom techniques. Key varieties include Katan (pure silk), Kora (organza), Tanchoi, and Jangla. Motifs include Kalga (mango/paisley), Shikargah (hunting scenes), Bel (creeper vines), and Jhallar (floral net borders).",
+        "ta": "பாரம்பரிய குழித்தறிகளில் நெய்யப்படுகிறது. கட்டான் (தூய பட்டு), கோரா, தான்சோய் போன்றவை முக்கிய வகைகள். மாங்காய் வடிவம், மலர்க் கொடிகள் மற்றும் நுணுக்கமான ஜரிகை பார்டர்கள் இதன் தனிச்சிறப்பாகும்.",
+        "hi": "इसे पारंपरिक पिट लूम पर हथकरघा बुनकरों द्वारा तैयार किया जाता है। कटान (शुद्ध रेशम), कोरा और तंचोई इसकी मुख्य किस्में हैं। इसमें कल्गा (कैरी/पैस्ले), बेल और शिकारगाह जैसे समृद्ध रूपांकनों का प्रयोग होता है।",
+        "mr": "पारंपरिक हातमागावर अत्यंत कौशल्याने ही साडी विणली जाते.",
+        "bn": "ঐতিহ্যবাহী তাঁতে খাঁটি রেশম ও জরির সুতো দিয়ে এই অপূর্ব কারুকার্য করা হয়।",
+        "te": "సాంప్రదాయ చేనేత మగ్గాలపై స్వచ్ఛమైన పట్టు మరియు జరీతో నేస్తారు."
+      },
+      "facts": {
+        "en": [
+          "Authentic Banarasi sarees use real gold and silver metallic threads (zari) electroplated over pure silk yarn.",
+          "A master weaver and two assistants may spend 3 to 6 months weaving a single masterpiece bridal saree.",
+          "Varanasi silk was granted the Geographical Indication (GI) protection in 2009.",
+          "Ancient texts describe this fabric as 'Hiranya' or cloth spun of golden threads."
+        ],
+        "ta": [
+          "அசல் பனாரசி சேலைகளில் தூய தங்கம் மற்றும் வெள்ளி பூசப்பட்ட உண்மையான ஜரிகை இழைகள் பயன்படுத்தப்படுகின்றன.",
+          "ஒரு முழுமையான திருமண சேலையை நெய்ய 3 முதல் 6 மாதங்கள் வரை ஆகிறது.",
+          "2009-ல் வாரணாசி பட்டுக்கு புவிசார் குறியீடு (GI Tag) கிடைத்தது.",
+          "பண்டைய நூல்களில் இது 'ஹிரண்ய' அல்லது பொன் நூல் ஆடை என்று அழைக்கப்பட்டது."
+        ],
+        "hi": [
+          "असली बनारसी साड़ियों में शुद्ध सोने और चांदी के महीन तारों (जरी) का उपयोग किया जाता है।",
+          "एक जटिल पारंपरिक साड़ी को बुनने में कुशल बुनकरों को 3 से 6 महीने का समय लग जाता है।",
+          "वर्ष 2009 में बनारसी रेशम को भौगोलिक संकेतक (GI Tag) का दर्जा मिला।",
+          "प्राचीन ग्रंथों में इस स्वर्णिम वस्त्र को 'हिरण्य' कहा गया है।"
+        ],
+        "mr": [
+          "यात अस्सल सोने-चांदीच्या जरीचा वापर केला जातो.",
+          "एक साडी विणायला कित्येक महिने लागतात."
+        ],
+        "bn": [
+          "খাঁটি বেনারসি তৈরিতে খাঁটি সোনা ও রূপোর জরির সুতো ব্যবহার হয়।",
+          "একটি শাড়ি বুনতে প্রায় ৩ থেকে ৬ মাস সময় লাগে।"
+        ],
+        "te": [
+          "అసలైన బనారసీ చీరలలో నిజమైన బంగారం మరియు వెండి జరీని వాడతారు.",
+          "ఒక విశిష్ట చీరను నేయడానికి 3 నుండి 6 నెలలు పడుతుంది."
+        ]
+      },
+      "audioNarrationText": {
+        "en": "Immerse yourself in the shimmering folds of Banarasi Brocade Silk from Varanasi. Handcrafted along the sacred ghats of the Ganges, this royal textile intertwines mulberry silk with threads of real gold and silver. Every motif carries centuries of devotion, wedding blessings, and the shared heritage of Hindu weavers and Muslim ustads working harmoniously on wooden pit looms.",
+        "ta": "வாரணாசியின் பளபளக்கும் பனாரசி பட்டின் அழகில் திளையுங்கள். கங்கை நதிக்கரையில் கைத்தறியால் நெய்யப்படும் இந்த அரச ஆடை, மல்பெரி பட்டையும் தங்கம்-வெள்ளி இழைகளையும் ஒன்றிணைக்கிறது. ஒவ்வொரு இழையும் தலைமுறை அன்பையும், திருமண ஆசிகளையும், இருவேறு கலாச்சாரங்களின் நெசவு நல்லிணக்கத்தையும் சுமந்து நிற்கிறது.",
+        "hi": "वाराणसी के पावन घाटों से उपजी बनारसी ब्रोकेड रेशम के स्वर्णिम वैभव का साक्षात्कार करें। गंगा की पावन लहरों के समीप हथकरघों पर रची जाने वाली यह वस्त्रकला रेशम और सोने-चांदी के तारों का अद्वितीय संगम है। इसका प्रत्येक धागा सदियों की आस्था, वैवाहिक शुभाशीष और हिंदू-मुस्लिम कारीगरों की साझा विरासत की गवाही देता है।"
+      },
+      "story": {
+        "title": {
+          "en": "Threads of the Sacred River",
+          "ta": "புனித நதியின் பொன் நூல்கள்",
+          "hi": "पावन गंगा के स्वर्णिम धागे",
+          "mr": "गंगेच्या काठचे रेशीम",
+          "bn": "পবিত্র নদীর স্বর্ণালী সুতো",
+          "te": "గంగా తీరపు స్వర్ణ దారాలు"
+        },
+        "intro": {
+          "en": "The rhythmic clatter of the wooden shuttle resonates through the narrow alleys of Varanasi before sunrise, as Ustad Anwar and his young apprentice stretch crimson silk bathed in the morning mist...",
+          "ta": "சூரிய உதயத்திற்கு முன்பே வாரணாசியின் குறுகிய சந்துகளில் மரத்தறியின் ஒலி கேட்கிறது; உஸ்தாத் அன்வர் பனிபடர்ந்த காலையில் சிவப்பு பட்டு நூல்களை வரிசைப்படுத்துகிறார்...",
+          "hi": "सूर्योदय से पूर्व काशी की संकरी गलियों में खट-खट की लयबद्ध आवाज गूंज उठती है, जहां उस्ताद अनवर सुबह की धुंध में लाल रेशम के तारों को करीने से संवार रहे हैं..."
+        },
+        "chapters": [
+          {
+            "id": "b1",
+            "title": {
+              "en": "The Golden Loom of Akbar",
+              "ta": "அக்பரின் பொன் தறி",
+              "hi": "अकबर का स्वर्णिम करघा"
+            },
+            "content": {
+              "en": "Emperor Akbar was so captivated by the brocades of Kashi that he appointed court weavers exclusively to weave Zari robes for the royal family, establishing permanent weaving quarters in Madanpura.",
+              "ta": "காசி பட்டின் மீது கொண்ட ஈர்ப்பால் அக்பர் பேரரசர் அரச குடும்பத்திற்கான பிரத்யேக ஜரிகை உடைகளை நெய்ய மதன்புராவில் நெசவாளர் காலனியை நிறுவினார்.",
+              "hi": "सम्राट अकबर काशी के ब्रोकेड से इतने प्रभावित हुए कि उन्होंने शाही परिवार के लिए जरी वस्त्र बुनने हेतु मदनपुरा में बुनकरों की बस्तियां बसाईं।"
+            }
+          },
+          {
+            "id": "b2",
+            "title": {
+              "en": "The Bridal Blessing",
+              "ta": "மணப்பெண்ணின் ஆசீர்வாதம்",
+              "hi": "दुल्हन का मंगल आशीर्वाद"
+            },
+            "content": {
+              "en": "To this day, a Banarasi saree is not merely worn; it is inherited as family blessing, keeping alive the soul of India's eternal city where every gold thread reflects the holy waters of Ganga.",
+              "ta": "இன்று வரை பனாரசி சேலை என்பது வெறும் ஆடை மட்டுமல்ல; அது குடும்பத்தின் மங்கல ஆசீர்வாதமாக போற்றப்பட்டு தலைமுறைகளுக்கு வழங்கப்படுகிறது.",
+              "hi": "आज भी बनारसी साड़ी मात्र एक वस्त्र नहीं, बल्कि पारिवारिक आशीर्वाद के रूप में एक पीढ़ी से दूसरी पीढ़ी को सौंपी जाने वाली अमूल्य धरोहर है।"
+            }
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "id": "bs_q1",
+          "question": {
+            "en": "In which sacred Indian city is Banarasi silk traditionally handwoven?",
+            "ta": "பாரம்பரியமாக பனாரசி பட்டு எந்த புனித இந்திய நகரத்தில் நெய்யப்படுகிறது?",
+            "hi": "पारंपरिक रूप से बनारसी रेशम किस पवित्र भारतीय नगर में बुना जाता है?"
+          },
+          "options": {
+            "en": ["Varanasi (Kashi)", "Kanchipuram", "Mysore", "Surat"],
+            "ta": ["வாரணாசி (காசி)", "காஞ்சிபுரம்", "மைசூர்", "சூரத்"],
+            "hi": ["वाराणसी (काशी)", "कांचीपुरम", "मैसूर", "सूरत"]
+          },
+          "correctIndex": 0,
+          "explanation": {
+            "en": "Banarasi silk sarees are handcrafted in the historic ghat city of Varanasi (Kashi), Uttar Pradesh.",
+            "ta": "பனாரசி பட்டு உத்திரப் பிரதேசத்தின் வாரணாசி (காசி) மாநகரில் நெய்யப்படுகிறது.",
+            "hi": "बनारसी साड़ियां उत्तर प्रदेश के ऐतिहासिक नगर वाराणसी (काशी) में हथकरघों पर बनाई जाती हैं।"
+          }
+        },
+        {
+          "id": "bs_q2",
+          "question": {
+            "en": "What precious metals are traditionally used to make authentic Zari threads?",
+            "ta": "பாரம்பரிய ஜரிகை நூல்களில் எந்த விலைமதிப்பற்ற உலோகங்கள் பயன்படுத்தப்படுகின்றன?",
+            "hi": "पारंपरिक असली जरी के धागे बनाने में किन बहुमूल्य धातुओं का प्रयोग होता है?"
+          },
+          "options": {
+            "en": ["Gold and Silver", "Platinum and Titanium", "Copper and Iron", "Aluminum and Brass"],
+            "ta": ["தங்கம் மற்றும் வெள்ளி", "பிளாட்டினம் மற்றும் டைட்டானியம்", "செம்பு மற்றும் இரும்பு", "அலுமினியம் மற்றும் பித்தளை"],
+            "hi": ["सोना और चांदी", "प्लैटिनम और टाइटेनियम", "तांबा और लोहा", "एल्युमिनियम और पीतल"]
+          },
+          "correctIndex": 0,
+          "explanation": {
+            "en": "Authentic zari is created by flattening pure silver wire, electroplating it with pure gold, and winding it around silk thread.",
+            "ta": "அசல் ஜரிகை வெள்ளி கம்பியை தட்டையாக்கி, தூய தங்கம் பூசி, பட்டு நூலின் மீது சுற்றப்படுகிறது.",
+            "hi": "असली जरी चांदी के महीन तारों पर शुद्ध सोने का पानी चढ़ाकर रेशम के धागे के साथ लपेटकर बनाई जाती है।"
+          }
+        },
+        {
+          "id": "bs_q3",
+          "question": {
+            "en": "What is the name for the popular paisley or raw mango motif frequently seen in Banarasi brocade?",
+            "ta": "பனாரசி பட்டுகளில் அடிக்கடி காணப்படும் மாங்காய் வடிவ உருவத்தின் பெயர் என்ன?",
+            "hi": "बनारसी ब्रोकेड में बहुतायत से दिखने वाले कैरी (आम) के आकार के रूपांकन को क्या कहते हैं?"
+          },
+          "options": {
+            "en": ["Kalga / Kalka (Paisley)", "Chakra", "Trishula", "Mandala"],
+            "ta": ["கல்கா / மாங்காய் வடிவம் (Kalga)", "சக்கரம்", "திரிசூலம்", "மண்டலம்"],
+            "hi": ["कल्गा / कालका (कैरी का आकार)", "चक्र", "त्रिशूल", "मंडला"]
+          },
+          "correctIndex": 0,
+          "explanation": {
+            "en": "Kalga (or Kalka) represents the raw mango or paisley pattern, symbolizing fertility and auspicious prosperity.",
+            "ta": "கல்கா என்பது மாங்காய் வடிவத்தைக் குறிக்கும், இது மங்கலத்தையும் செழிப்பையும் உணர்த்துகிறது.",
+            "hi": "कल्गा अथवा कालका कैरी के आकार का रूपांकन है जो शुभता और समृद्धि का प्रतीक माना जाता है।"
+          }
+        }
+      ],
+      "tags": ["Banarasi Silk", "Varanasi", "Zari", "Handloom", "Textiles"]
+    },
+    "sanchi_stupa": {
+      "id": "sanchi_stupa",
+      "name": "Great Stupa at Sanchi",
+      "names": {
+        "en": "Great Stupa at Sanchi",
+        "ta": "சாஞ்சி பெரிய தூபி",
+        "hi": "सांची का महान स्तूप",
+        "mr": "सांचीचा महास्तूप",
+        "bn": "সাঁচির মহান স্তূপ",
+        "te": "సాంచి మహా స్థూపం"
+      },
+      "location": "Sanchi, Raisen, Madhya Pradesh, India",
+      "locations": {
+        "en": "Sanchi, Madhya Pradesh, India",
+        "ta": "சாஞ்சி, மத்திய பிரதேசம், இந்தியா",
+        "hi": "सांची, मध्य प्रदेश, भारत",
+        "mr": "सांची, मध्य प्रदेश, भारत",
+        "bn": "সাঁচি, মধ্যপ্রদেশ, ভারত",
+        "te": "సాంచి, మధ్యప్రదేశ్, భారతదేశం"
+      },
+      "state": "Madhya Pradesh",
+      "period": "3rd Century BCE (Emperor Ashoka)",
+      "category": "Monuments",
+      "imageUrl": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?q=80&w=1200&auto=format&fit=crop",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1590050752117-238cb0fb12b1?q=80&w=400&auto=format&fit=crop",
+      "confidenceScore": 95,
+      "verified": true,
+      "unescoStatus": "UNESCO World Heritage Site (1989)",
+      "overview": {
+        "en": "The Great Stupa at Sanchi is the oldest stone structure in India, originally commissioned by Mauryan Emperor Ashoka the Great in the 3rd century BCE to house the sacred relics of the Buddha.",
+        "ta": "சாஞ்சியில் உள்ள பெரிய தூபி இந்தியாவின் மிகத் தொன்மையான கல் கட்டிடமாகும். கிமு 3-ஆம் நூற்றாண்டில் மௌரியப் பேரரசர் அசோகரால் புத்தரின் புனித நினைவுப் பொருட்களைப் பாதுகாக்க இது கட்டப்பட்டது.",
+        "hi": "सांची का महान स्तूप भारत की सबसे प्राचीन प्रस्तर संरचना है, जिसे तीसरी शताब्दी ईसा पूर्व में मौर्य सम्राट अशोक ने भगवान बुद्ध के पवित्र धातु अवशेषों को प्रतिष्ठित करने के लिए बनवाया था।",
+        "mr": "सांचीचा स्तूप ही भारतातील सर्वात जुनी दगडी वास्तू मानली जाते.",
+        "bn": "সাঁচির স্তূপ ভারতের প্রাচীনতম পাথরের স্থাপত্য যা সম্রাট অশোক নির্মাণ করেন।",
+        "te": "సాంచి స్థూపం భారతదేశంలో అత్యంత పురాతన రాతి కట్టడం."
+      },
+      "culturalSignificance": {
+        "en": "The hemisphere (Anda) symbolizes the vault of heaven enclosing the cosmic world. The four richly carved ceremonial gateways (Toranas) depict Jataka tales, Ashoka's lion capital, and the iconic wheel of Dhamma, serving as a beacon of Buddhist peace and non-violence across Asia.",
+        "ta": "அண்டம் என்று அழைக்கப்படும் அரைக்கோள வடிவம் பிரபஞ்ச வானத்தைக் குறிக்கிறது. நான்கு தோரண வாயில்களும் புத்தரின் ஜாதகக் கதைகளையும், தம்ம சக்கரத்தையும் நுணுக்கமாக சித்தரித்து அமைதி மற்றும் அகிம்சையின் சின்னமாக விளங்குகின்றன.",
+        "hi": "इसका अर्धगोलाकार गुंबद (अण्ड) आकाश और मोक्ष का प्रतीक है। चारों दिशाओं में स्थित चार अलंकृत तोरण द्वार जातक कथाओं, बुद्ध के जीवन और धर्मचक्र का जीवंत आख्यान प्रस्तुत करते हैं।",
+        "mr": "अहिंसा आणि बौद्ध तत्त्वज्ञानाचा हा जागतिक दीपस्तंभ आहे.",
+        "bn": "শান্তি ও বৌদ্ধ অহিংসা দর্শনের অমর স্মারক এই সাঁচি স্তূপ।",
+        "te": "శాంతి, అహింసలకు ప్రతీకగా నిలిచే బౌద్ధ క్షేత్రం ఇది."
+      },
+      "history": {
+        "en": "Originally a simple brick mound erected by Emperor Ashoka, it was later expanded with stone casing and circumambulatory balustrades by the Shunga dynasty, and decorated with elaborate carved Toranas during the Satavahana era around 1st century BCE.",
+        "ta": "அசோகரால் செங்கற்களால் அமைக்கப்பட்ட இத்தூபி, பின்னர் சுங்கர் காலத்தில் கல்லால் பெரிதாக்கப்பட்டு, கிமு முதலாம் நூற்றாண்டில் சாதவாகனர் ஆட்சியில் நான்கு திசைகளிலும் அற்புத தோரண வாயில்களுடன் மெருகேற்றப்பட்டது.",
+        "hi": "सम्राट अशोक द्वारा निर्मित साधारण ईंटों के स्तूप को बाद में शुंग काल में पत्थरों से विशाल किया गया और सातवाहन काल में इस पर अद्वितीय तोरण द्वारों की नक्काशी की गई।",
+        "mr": "अशोक, शुंग आणि सातवाहन या तीन कालखंडांचा इतिहास यात सामावला आहे.",
+        "bn": "মৌর্য, শুঙ্গ এবং সাতবাহন রাজাদের অবদানে এই স্তূপ রূপ পেয়েছিল।",
+        "te": "మౌర్యులు, శుంగులు మరియు శాతవాహనుల కాలంలో ఇది క్రమంగా విస్తరించబడింది."
+      },
+      "architecture": {
+        "en": "Features an Anda (dome), Harmika (square railing at the crest), Chhatri (three-tiered umbrella signifying the Three Jewels: Buddha, Dhamma, Sangha), Medhi (elevated walkway for Pradakshina), and Toranas carved with aniconic representations of Buddha (footprints, riderless horse, Bodhi tree).",
+        "ta": "அண்டம் (குவிமாடம்), ஹார்மிகா, தம்ம-சங்க-புத்த முப்பெரும் ரத்தினங்களைக் குறிக்கும் சத்ரி குடை, மற்றும் பிரதக்ஷிணம் செய்வதற்கான பாதை ஆகியவற்றை உள்ளடக்கியது. புத்தர் உருவமாக அல்லாமல் பாதங்கள், போதிமரம் போன்றவற்றால் உணர்த்தப்படுகிறார்.",
+        "hi": "इसमें अंड (गुंबद), हर्मिका (शीर्ष रेलिंग), छत्र (त्रिरत्न: बुद्ध, धम्म, संघ का प्रतीक तीन छत्र), प्रदक्षिणा पथ और चार तोरण द्वार हैं। इसमें बुद्ध को सीधे न दिखाकर उनके चरणचिह्न, बोधिवृक्ष और धर्मचक्र द्वारा दर्शाया गया है।",
+        "mr": "बौद्ध स्थापत्यकलेचा हा पाया मानला जातो.",
+        "bn": "বৌদ্ধ স্থাপত্যের আদিমতম ও সর্বশ্রেষ্ঠ নকশা এতে পরিস্ফুটিত।",
+        "te": "బౌద్ధ వాస్తు శైలికి ఇది ఆదర్శ ప్రాయమైన కట్టడం."
+      },
+      "facts": {
+        "en": [
+          "Buddha is never represented in human form at Sanchi; only aniconic symbols like footprints, umbrellas, and vacant thrones are used.",
+          "The Great Stupa features on the reverse of the Indian 200-rupee currency note.",
+          "Sanchi was abandoned in the 14th century and remained hidden beneath dense jungle until rediscovered in 1818 by British General Henry Taylor.",
+          "The Ashoka Lion Capital found at Sanchi is identical in style to the one at Sarnath, which became India's National Emblem."
+        ],
+        "ta": [
+          "சாஞ்சியில் புத்தர் மனித வடிவில் சித்தரிக்கப்படவில்லை; பாதங்கள், வெண்கொற்றக்குடை போன்ற குறியீடுகளே உள்ளன.",
+          "இந்திய ரிசர்வ் வங்கியின் ₹200 ரூபாய் நோட்டின் பின்புறத்தில் சாஞ்சி தூபியின் படம் உள்ளது.",
+          "14-ஆம் நூற்றாண்டில் கைவிடப்பட்டு காடுகளால் மூடப்பட்ட சாஞ்சி, 1818-ல் ஜெனரல் ஹென்றி டெய்லரால் மீண்டும் கண்டறியப்பட்டது.",
+          "இந்திய தேசிய இலச்சினையான அசோக சிங்க முத்திரை போன்றே சாஞ்சியிலும் ஒரு அசோகத் தூண் உள்ளது."
+        ],
+        "hi": [
+          "सांची में भगवान बुद्ध को मानव रूप में नहीं, बल्कि उनके प्रतीकों (जैसे चरण, छत्र, बोधिवृक्ष) के रूप में दर्शाया गया है।",
+          "भारतीय ₹200 के नए बैंक नोट के पीछे सांची स्तूप का चित्र अंकित है।",
+          "14वीं सदी के बाद यह स्तूप घने जंगलों में खो गया था, जिसे 1818 में ब्रिटिश अधिकारी हेनरी टेलर ने पुनः खोजा।",
+          "सांची का अशोक स्तंभ सारनाथ स्तंभ की भांति ही भारत के गौरवशाली इतिहास का परिचायक है।"
+        ],
+        "mr": [
+          "भारतीय २०० रुपयांच्या नोटेवर सांची स्तूप छापण्यात आला आहे.",
+          "येथे बुद्धांना प्रतीकांच्या माध्यमातून दर्शवले आहे."
+        ],
+        "bn": [
+          "ভারতের ২০০ টাকার নোটে সাঁচি স্তূপের ছবি রয়েছে।",
+          "১৮১৮ সালে জঙ্গলে ঢাকা এই স্তূপ পুনরাবিষ্কৃত হয়।"
+        ],
+        "te": [
+          "భారతదేశ 200 రూపాయల నోటు వెనుక సాంచి స్తూపం చిత్రం ఉంది.",
+          "బుద్ధుని పాదపద్మాలు, బోధివృక్షం వంటి చిహ్నాలు ఇక్కడ చెక్కబడ్డాయి."
+        ]
+      },
+      "audioNarrationText": {
+        "en": "Enter the serene grounds of Sanchi in Madhya Pradesh. Commenced by Emperor Ashoka over 2,200 years ago, the Great Stupa is a sanctuary of peace and reflection. As you walk the circular stone path of meditation, notice how ancient sculptors depicted the enlightened one not through faces or statues, but through an empty throne, a footprint, and the rustling leaves of the Bodhi tree.",
+        "ta": "மத்திய பிரதேசத்தின் அமைதியான சாஞ்சி மண்ணிற்குள் நுழையுங்கள். 2,200 ஆண்டுகளுக்கு முன்பு அசோகப் பேரரசரால் நிறுவப்பட்ட இந்த மகா தூபி அமைதி மற்றும் தியானத்தின் புகலிடமாகும். இதன் வட்டப் பாதையில் வலம் வரும்போது, சிற்பிகள் புத்தரை சிலையாக வடிக்காமல் வெற்று ஆசனம், பாதங்கள், போதி இலைகள் மூலம் உணர்த்திய நுணுக்கத்தை உணரலாம்.",
+        "hi": "मध्य प्रदेश में स्थित सांची की पावन भूमि में प्रवेश करें। 2,200 वर्ष पूर्व सम्राट अशोक द्वारा स्थापित यह महान स्तूप शांति और आत्मचिंतन का महातीर्थ है। इसके प्रदक्षिणा पथ पर चलते हुए आप अनुभव करेंगे कि प्राचीन शिल्पियों ने बुद्ध को किसी मूर्ति में नहीं, बल्कि उनके पदचिह्नों और बोधिवृक्ष की छांव में जीवंत रखा है।"
+      },
+      "story": {
+        "title": {
+          "en": "The Whisper of the Four Gates",
+          "ta": "நான்கு தோரணங்களின் மென்மொழி",
+          "hi": "चार तोरणों की पावन वाणी",
+          "mr": "चार तोरणद्वारांची कथा",
+          "bn": "চার তোরণের অমলিন কাহিনী",
+          "te": "నాలుగు తోరణాల దివ్య గాథ"
+        },
+        "intro": {
+          "en": "High upon a quiet hill overlooking the Betwa River, morning mist curls around the great stone dome as monks in saffron robes chant words of compassion...",
+          "ta": "பெட்வா நதியை நோக்கிய அமைதியான குன்றின் மீது, காவி உடை அணிந்த துறவிகள் கருணை மந்திரங்களை ஓதும் வேளையில் காலைப் பனி சாஞ்சி தூபியைத் தழுவுகிறது...",
+          "hi": "बेतवा नदी के तट पर एक शांत पहाड़ी के ऊपर, सुबह की कोमल धूप में सांची का विशाल गुंबद करुणा और अहिंसा का मौन संदेश दे रहा है..."
+        },
+        "chapters": [
+          {
+            "id": "s1",
+            "title": {
+              "en": "Ashoka's Transformation",
+              "ta": "அசோகரின் மனமாற்றம்",
+              "hi": "अशोक का हृदय परिवर्तन"
+            },
+            "content": {
+              "en": "Shaken by the horrors of the Kalinga war, Emperor Ashoka renounced the sword and embraced the path of Dhamma. He chose Sanchi, home of his beloved queen Devi, to build this great monument of peace.",
+              "ta": "கலிங்கப் போரின் துயரங்களால் மனம் வருந்திய அசோகர், வாளைத் துறந்து தம்மத்தின் வழியைத் தழுவினார். தனது அன்பு மனைவி தேவியின் ஊரான சாஞ்சியைத் தேர்ந்தெடுத்து இத்தூபியை அமைத்தார்.",
+              "hi": "कलिंग युद्ध के रक्तपात से व्यथित होकर सम्राट अशोक ने तलवार त्याग दी और धम्म का मार्ग अपनाया। अपनी महारानी देवी के जन्मस्थान सांची को उन्होंने इस पावन स्तूप के निर्माण के लिए चुना।"
+            }
+          },
+          {
+            "id": "s2",
+            "title": {
+              "en": "Carved by Ivory Smiths",
+              "ta": "தந்தச் சிற்பிகளின் கைவண்ணம்",
+              "hi": "दंतशिल्पियों की बारीक नक्काशी"
+            },
+            "content": {
+              "en": "Inscriptions reveal that the southern gateway was carved by ivory craftsmen of nearby Vidisha. They applied their delicate, paper-thin ivory carving techniques directly onto hard sandstone, creating details so lifelike they seem to breathe.",
+              "ta": "விதிஷா நகரத்து யானைத் தந்த சிற்பிகளால் தெற்கு தோரண வாயில் செதுக்கப்பட்டதாக கல்வெட்டுகள் கூறுகின்றன. கடினமான மணற்பாறையில் தந்தத்தில் செய்வது போன்ற அதிநுட்ப வேலைப்பாடுகளைச் செய்தனர்.",
+              "hi": "शिलालेखों से ज्ञात होता है कि विदिशा के हाथी दांत के शिल्पियों ने इसके तोरण द्वारों पर नक्काशी की थी। उन्होंने अपनी सूक्ष्म कला को कठोर बलुआ पत्थर पर इतनी बारीकी से उतारा कि पत्थर भी बोल उठे।"
+            }
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "id": "st_q1",
+          "question": {
+            "en": "Which celebrated Mauryan Emperor originally commissioned the Great Stupa at Sanchi?",
+            "ta": "சாஞ்சி பெரிய தூபியை முதலில் கட்டிய புகழ்பெற்ற மௌரியப் பேரரசர் யார்?",
+            "hi": "सांची के महान स्तूप का मूल निर्माण किस प्रतापी मौर्य सम्राट ने करवाया था?"
+          },
+          "options": {
+            "en": ["Chandragupta Maurya", "Emperor Ashoka the Great", "Bindusara", "Harshavardhana"],
+            "ta": ["சந்திரகுப்த மௌரியர்", "மகா அசோகப் பேரரசர்", "பிந்துசாரர்", "ஹர்ஷவர்த்தனர்"],
+            "hi": ["चंद्रगुप्त मौर्य", "सम्राट अशोक महान", "बिंदुसार", "हर्षवर्धन"]
+          },
+          "correctIndex": 1,
+          "explanation": {
+            "en": "Emperor Ashoka the Great commissioned the stupa in the 3rd century BCE.",
+            "ta": "கிமு 3-ஆம் நூற்றாண்டில் மகா அசோகப் பேரரசரால் சாஞ்சி தூபி கட்டப்பட்டது.",
+            "hi": "सम्राट अशोक महान ने ईसा पूर्व तीसरी शताब्दी में भगवान बुद्ध के सम्मान में इसका निर्माण कराया।"
+          }
+        },
+        {
+          "id": "st_q2",
+          "question": {
+            "en": "Which Indian currency note features an illustration of the Sanchi Stupa?",
+            "ta": "எந்த இந்திய ரூபாய் நோட்டின் பின்புறத்தில் சாஞ்சி தூபியின் படம் இடம்பெற்றுள்ளது?",
+            "hi": "किस भारतीय बैंक नोट पर सांची स्तूप का चित्र मुद्रित है?"
+          },
+          "options": {
+            "en": ["₹50 Note", "₹100 Note", "₹200 Note", "₹2000 Note"],
+            "ta": ["₹50 நோட்டு", "₹100 நோட்டு", "₹200 நோட்டு", "₹2000 நோட்டு"],
+            "hi": ["₹50 का नोट", "₹100 का नोट", "₹200 का नोट", "₹2000 का नोट"]
+          },
+          "correctIndex": 2,
+          "explanation": {
+            "en": "The bright yellow ₹200 banknote launched by the RBI features the Sanchi Stupa motif.",
+            "ta": "மஞ்சள் நிற ₹200 ரூபாய் நோட்டின் பின்புறத்தில் சாஞ்சி தூபி உள்ளது.",
+            "hi": "भारतीय रिजर्व बैंक के चमकीले पीले ₹200 के नोट पर सांची स्तूप का चित्र है।"
+          }
+        },
+        {
+          "id": "st_q3",
+          "question": {
+            "en": "How is the Buddha represented on the carved stone gateways of Sanchi?",
+            "ta": "சாஞ்சி தோரண வாயில்களில் புத்தர் எவ்வாறு சித்தரிக்கப்பட்டுள்ளார்?",
+            "hi": "सांची के तोरण द्वारों पर भगवान बुद्ध को किस रूप में दर्शाया गया है?"
+          },
+          "options": {
+            "en": ["Large standing bronze statues", "Aniconic sacred symbols like footprints, umbrellas, and vacant thrones", "Gold leaf portrait paintings", "Mounted warrior on chariot"],
+            "ta": ["பெரிய நின்ற நிலை வெண்கல சிலைகள்", "பாதங்கள், குடைகள், வெற்று ஆசனம் போன்ற புனிதக் குறியீடுகள்", "தங்க ஓவியங்கள்", "தேரில் போர்வீரன்"],
+            "hi": ["विशाल कांस्य प्रतिमाएं", "प्रतीकात्मक रूप में जैसे पदचिह्न, छत्र और रिक्त सिंहासन", "स्वर्ण पत्र चित्र", "रथ पर सवार योद्धा"]
+          },
+          "correctIndex": 1,
+          "explanation": {
+            "en": "In early Buddhist art at Sanchi, the Buddha is represented only through aniconic symbols rather than anthropomorphic human figures.",
+            "ta": "தொடக்க கால பௌத்த கலையில் புத்தர் மனித உருவத்திற்கு பதிலாக அடையாளக் குறியீடுகளாலேயே குறிக்கப்பட்டார்.",
+            "hi": "आरंभिक बौद्ध कला में बुद्ध को मूर्ति रूप में न दिखाकर चरणचिह्न, छत्र और बोधिवृक्ष जैसे प्रतीकों से दर्शाया जाता था।"
+          }
+        }
+      ],
+      "tags": ["Buddhist Architecture", "Ashoka", "Sanchi", "UNESCO", "Madhya Pradesh"]
+    },
+    "hampi_chariot": {
+      "id": "hampi_chariot",
+      "name": "Stone Chariot of Hampi",
+      "names": {
+        "en": "Stone Chariot of Hampi",
+        "ta": "ஹம்பி கல் ரதம்",
+        "hi": "हम्पी का प्रस्तर रथ",
+        "mr": "हम्पीचा दगडी रथ",
+        "bn": "হাম্পির পাথরের রথ",
+        "te": "హంపీ రాతి రథం"
+      },
+      "location": "Vijayanagara, Bellary, Karnataka, India",
+      "locations": {
+        "en": "Hampi, Karnataka, India",
+        "ta": "ஹம்பி, கர்நாடகா, இந்தியா",
+        "hi": "हम्पी, कर्नाटक, भारत",
+        "mr": "हम्पी, कर्नाटक, भारत",
+        "bn": "হাম্পি, কর্ণাটক, ভারত",
+        "te": "హంపీ, కర్ణాటక, భారతదేశం"
+      },
+      "state": "Karnataka",
+      "period": "16th Century CE (King Krishnadevaraya)",
+      "category": "Monuments",
+      "imageUrl": "https://images.unsplash.com/photo-1600100397608-f010f443b749?q=80&w=1200&auto=format&fit=crop",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1600100397608-f010f443b749?q=80&w=400&auto=format&fit=crop",
+      "confidenceScore": 96,
+      "verified": true,
+      "unescoStatus": "UNESCO World Heritage Site (1986)",
+      "overview": {
+        "en": "The world-famous Stone Chariot located inside the Vijaya Vittala Temple complex in Hampi, Karnataka, is an iconic shrine dedicated to Garuda. Built by Emperor Krishnadevaraya of the Vijayanagara Empire, it is sculpted with interlocking granite blocks so precisely that it appears monolithic.",
+        "ta": "கர்நாடகாவின் ஹம்பியில் உள்ள விஜய விட்டலா கோயில் வளாகத்தில் அமைந்துள்ள உலகப் புகழ்பெற்ற கல் ரதம், கருடனுக்கு அர்ப்பணிக்கப்பட்ட வழிபாட்டிடமாகும். விஜயநகரப் பேரரசர் கிருஷ்ணதேவராயரால் கருங்கல்லால் செதுக்கப்பட்டது.",
+        "hi": "कर्नाटक के हम्पी में विजय विट्ठल मंदिर परिसर में स्थित यह विश्वविख्यात प्रस्तर रथ भगवान विष्णु के वाहन गरुड़ को समर्पित एक अनुपम देवालय है। विजयनगर साम्राज्य के सम्राट कृष्णदेवराय ने इसका निर्माण ग्रेनाइट पत्थरों को जोड़कर कराया था।",
+        "mr": "विजयनगर साम्राज्याची शान असलेला हम्पीचा दगडी रथ हा भारतीय शिल्पकलेचा अद्भुत चमत्कार आहे.",
+        "bn": "হাম্পির বিজয়নগর সাম্রাজ্যের বিখ্যাত পাথরের রথ ভারতীয় ভাস্কর্যের এক অবিস্মরণীয় কীর্তি।",
+        "te": "హంపీ విజయ విఠల దేవాలయంలోని రాతి రథం విజయనగర శిల్పకళా వైభవానికి నిలువుటద్దం."
+      },
+      "culturalSignificance": {
+        "en": "One of only three famous stone chariots in India (along with Konark and Mahabalipuram). It serves as Garuda's shrine facing the sanctum of Lord Vittala (an incarnation of Vishnu). It is featured on the reverse of the Indian 50 Rupee note.",
+        "ta": "இந்தியாவில் உள்ள மூன்று புகழ்பெற்ற கல் ரதங்களில் இதுவும் ஒன்று (கோனார்க், மகாபலிபுரம் மற்றவை). விஷ்ணுவின் அவதாரமான விட்டலரின் சன்னதியை நோக்கிய கருடனின் பீடமாக இது விளங்குகிறது. இந்திய ₹50 ரூபாய் நோட்டில் இடம்பெற்றுள்ளது.",
+        "hi": "भारत के तीन सबसे प्रसिद्ध प्रस्तर रथों (कोणार्क, महाबलीपुरम और हम्पी) में से एक है। यह भगवान विट्ठल के सम्मुख गरुड़ के मंदिर के रूप में स्थापित है। यह भारतीय 50 रुपये के नए नोट पर सुशोभित है।",
+        "mr": "भारतीय ५० रुपयांच्या नोटेवर या रथाचे चित्र आहे.",
+        "bn": "ভারতের ৫০ টাকার নোটে এই ঐতিহাসিক রথের ছবি মুদ্রিত আছে।",
+        "te": "భారతదేశ 50 రూపాయల నోటుపై ఈ హంపీ రాతి రథం ముద్రించబడింది."
+      },
+      "history": {
+        "en": "Constructed in the early 16th century by King Krishnadevaraya after his military campaigns in Odisha, where he was inspired by the Konark Sun Temple chariot. Local historical lore states that the chariot's granite wheels were once fully movable and could be rotated.",
+        "ta": "16-ஆம் நூற்றாண்டின் தொடக்கத்தில் ஒடிசா போருக்குப் பிறகு கோனார்க் சூரியக் கோயிலின் உத்வேகத்தால் கிருஷ்ணதேவராய மன்னரால் கட்டப்பட்டது. முற்காலத்தில் இதன் கருங்கல் சக்கரங்கள் சுழலும் வகையில் வடிவமைக்கப்பட்டிருந்ததாகக் கூறப்படுகிறது.",
+        "hi": "16वीं सदी के आरंभ में सम्राट कृष्णदेवराय ने ओडिशा विजय के दौरान कोणार्क के रथ से प्रेरित होकर इसका निर्माण कराया था। कहा जाता है कि पहले इसके ग्रेनाइट के पहिये सचमुच घूमा करते थे।",
+        "mr": "सम्राट कृष्णदेवराय यांनी कोणार्कच्या रथावरून प्रेरणा घेऊन हे निर्माण केले.",
+        "bn": "সম্রাট কৃষ্ণদেবরায় ওড়িশার কোনাক থেকে অনুপ্রাণিত হয়ে এই অনুপম রথ নির্মাণ করেন।",
+        "te": "శ్రీకృష్ణదేవరాయలు కోణార్క్ రథాన్ని చూసి ప్రేరణ పొంది దీనిని నిర్మించారు."
+      },
+      "architecture": {
+        "en": "Though appearing as a monolithic single sculpture, it was ingeniously assembled from multiple interlocking granite blocks with hidden joints. In front of the wheels stand two stone elephants, added later to replace the original horses.",
+        "ta": "ஒற்றைக் கல்லில் செதுக்கப்பட்டது போல் தோன்றினாலும், மறைக்கப்பட்ட மூட்டுகளுடன் பல கருங்கல் பாளங்களை இணைத்து விசித்திரமாக உருவாக்கப்பட்டது. ரதத்தின் முன்புறம் இரண்டு கல் யானைகள் கம்பீரமாக நிற்கின்றன.",
+        "hi": "देखने में यह अखंड पाषाण (एकल पत्थर) प्रतीत होता है, परंतु इसे ग्रेनाइट के कई टुकड़ों को अत्यंत निपुणता से जोड़कर बनाया गया है। रथ के आगे दो सुंदर प्रस्तर हाथी सुशोभित हैं।",
+        "mr": "अनेक ग्रॅनाइट दगड एकत्र जोडून हे अप्रतिम शिल्प तयार केले आहे.",
+        "bn": "একটিমাত্র পাথর মনে হলেও এটি কয়েকটি গ্রানাইট পাথরের অবিশ্বাস্য নিপুণ জোড়।",
+        "te": "ఒకే రాతి శిల్పంలా కనిపించినప్పటికీ, అనేక గ్రానైట్ రాళ్లను అద్భుతంగా జోడించి నిర్మించారు."
+      },
+      "facts": {
+        "en": [
+          "The Stone Chariot is depicted on the reverse of the cyan-blue ₹50 Indian currency banknote.",
+          "The wheels of the chariot were once free to rotate on their granite axles before being sealed for conservation.",
+          "It is dedicated to Garuda, the celestial eagle mount of Lord Vishnu.",
+          "The surrounding Vittala temple hall is famous for its 56 musical stone pillars that produce musical notes when tapped."
+        ],
+        "ta": [
+          "இந்திய ரிசர்வ் வங்கியின் வெளிர் நீல ₹50 ரூபாய் நோட்டின் பின்புறத்தில் ஹம்பி கல் ரதம் உள்ளது.",
+          "பாதுகாப்பு காரணங்களுக்காக நிறுத்தப்படும் வரை இதன் கருங்கல் சக்கரங்கள் சுழன்று கொண்டிருந்தன.",
+          "இது மகாவிஷ்ணுவின் வாகனமான கருடனுக்கு அர்ப்பணிக்கப்பட்டது.",
+          "இதன் அருகிலுள்ள விட்டலா கோயில் மண்டபத்தில் தட்டினால் இசை ஒலிக்கும் 56 இசைத் தூண்கள் உள்ளன."
+        ],
+        "hi": [
+          "भारतीय रिज़र्व बैंक के ₹50 के नए नीले नोट के पीछे हम्पी के इसी रथ का चित्र है।",
+          "संरक्षण के लिए स्थिर किए जाने से पहले इसके पहिये धुरी पर सचमुच घूम सकते थे।",
+          "यह देवालय भगवान विष्णु के वाहन गरुड़ देव को समर्पित है।",
+          "इसके पास स्थित विट्ठल मंदिर के 56 प्रस्तर स्तंभों को थपथपाने पर सप्त सुरों की ध्वनि निकलती है।"
+        ],
+        "mr": [
+          "५० रुपयांच्या नोटेवर याचे चित्र आहे.",
+          "या मंदिरात संगीतमय दगडी खांब आहेत."
+        ],
+        "bn": [
+          "ভারতের ৫০ টাকার নোটে এই রথের ছবি রয়েছে।",
+          "কাছের মন্দিরের পাথরের স্তম্ভ থেকে সঙ্গীতের সুর বাজে।"
+        ],
+        "te": [
+          "50 రూపాయల నోటుపై ఈ రథం ఉంది.",
+          "సమీపంలోని విఠల దేవాలయంలో సంగీతం పలికే రాతి స్తంభాలు ఉన్నాయి."
+        ]
+      },
+      "audioNarrationText": {
+        "en": "Step onto the rugged boulders of Hampi in Karnataka, the capital of the Vijayanagara Empire. Standing before you is the iconic Stone Chariot of Vittala Temple. Sculpted from solid granite with such mastery that it appears carved from a single mountain, this chariot honors Garuda, the eagle vehicle of Lord Vishnu. Notice the wheels that once turned on stone axles — a testimony to India's golden architectural era.",
+        "ta": "விஜயநகரப் பேரரசின் தலைநகரான கர்நாடகாவின் ஹம்பிக்கு வருகை தாருங்கள். உங்கள் முன் கம்பீரமாக நிற்பது வரலாற்றுச் சிறப்புமிக்க கல் ரதமாகும். ஒற்றை மலையில் செதுக்கியது போல் பல பாறைகளை இணைத்து உருவாக்கப்பட்ட இந்த ரதம், மகாவிஷ்ணுவின் வாகனமான கருட பகவானுக்கு அர்ப்பணிக்கப்பட்டது. ஒரு காலத்தில் சுழன்ற இதன் கருங்கல் சக்கரங்கள் இந்தியாவின் பொற்கால கட்டிடக்கலைக்கு சான்றாகும்.",
+        "hi": "विजयनगर साम्राज्य की वैभवशाली राजधानी कर्नाटक के हम्पी में आपका स्वागत है। आपके सामने खड़ा है विजय विट्ठल मंदिर का विश्वप्रसिद्ध प्रस्तर रथ। ठोस ग्रेनाइट से तराशा गया यह रथ भगवान विष्णु के वाहन गरुड़ का देवालय है। इसके पहिये कभी धुरी पर घूमा करते थे — जो प्राचीन भारत के अद्वितीय अभियांत्रिकी कौशल का प्रमाण है।"
+      },
+      "story": {
+        "title": {
+          "en": "The Chariot of Granite and Gold",
+          "ta": "கருங்கல்லும் பொன்னும் கலந்த ரதம்",
+          "hi": "ग्रेनाइट और स्वर्ण का अमर रथ",
+          "mr": "ग्रॅनाइटचा रथ",
+          "bn": "গ্রানাইট পাথরের রথকাহিনী",
+          "te": "గ్రానైట్ రాతి రథ గాథ"
+        },
+        "intro": {
+          "en": "Across the rocky expanse along the Tungabhadra River, dusk turns the ruins of the Vijayanagara empire into molten copper, whispering stories of Emperor Krishnadevaraya's triumphs...",
+          "ta": "துங்கபத்ரா நதிக்கரையின் பாறைகள் நிறைந்த பரப்பில், அந்திப் பொழுது விஜயநகர இடிபாடுகளை செப்பு நிறமாய் மின்னச் செய்கிறது; கிருஷ்ணதேவராயரின் வெற்றிக் கதைகளை காற்று கிசுகிசுக்கிறது...",
+          "hi": "तुंगभद्रा नदी के तट पर फैली चट्टानों के बीच गोधूलि वेला में हम्पी के खंडहर सोने जैसे चमक उठते हैं, जहां सम्राट कृष्णदेवराय के पराक्रम की गाथाएं आज भी गूंजती हैं..."
+        },
+        "chapters": [
+          {
+            "id": "h1",
+            "title": {
+              "en": "The Inspiration of Konark",
+              "ta": "கோனார்க்கின் உத்வேகம்",
+              "hi": "कोणार्क की प्रेरणा"
+            },
+            "content": {
+              "en": "Returning victorious from Kalinga, the great monarch Krishnadevaraya was haunted by the grandeur of stone wheels. He summoned his finest sculptors to fashion an eternal stone chariot in the heart of Hampi.",
+              "ta": "கலிங்கப் போரில் வெற்றிபெற்று திரும்பிய கிருஷ்ணதேவராயர், கோனார்க்கின் கல் சக்கரங்களால் ஈர்க்கப்பட்டு, ஹம்பியின் மையத்தில் இக்கல் ரதத்தை உருவாக்க ஆணையிட்டார்.",
+              "hi": "कलिंग विजय से लौटकर सम्राट कृष्णदेवराय ने कोणार्क के सूर्य रथ से प्रेरित होकर हम्पी में भगवान गरुड़ के लिए इस पाषाण रथ के निर्माण का आदेश दिया।"
+            }
+          },
+          {
+            "id": "h2",
+            "title": {
+              "en": "The Mystery of Moving Wheels",
+              "ta": "சுழன்ற சக்கரங்களின் ரகசியம்",
+              "hi": "घूमते पहियों का रहस्य"
+            },
+            "content": {
+              "en": "For centuries, pilgrims traveling to Hampi would place their shoulders against the giant stone wheels, marveling as tons of granite rolled effortlessly along the platform before archaeologists stabilized them for future generations.",
+              "ta": "நூற்றாண்டுகளாக ஹம்பிக்கு வந்த பக்தர்கள் இந்த பிரம்மாண்ட கல் சக்கரங்களைத் தள்ளி சுழற்றி வியந்தனர்; பிற்காலத்தில் பாதுகாப்பிற்காக அவை நிலைநிறுத்தப்பட்டன.",
+              "hi": "सदियों तक हम्पी आने वाले तीर्थयात्री इन भारी पत्थरों के पहियों को हाथों से घुमाकर चकित रह जाते थे, जिन्हें बाद में सुरक्षा कारणों से स्थिर किया गया।"
+            }
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "id": "hc_q1",
+          "question": {
+            "en": "In which historic empire was the Stone Chariot of Hampi constructed?",
+            "ta": "ஹம்பி கல் ரதம் எந்த வரலாற்றுப் பேரரசின் காலத்தில் கட்டப்பட்டது?",
+            "hi": "हम्पी का प्रस्तर रथ किस ऐतिहासिक साम्राज्य के काल में बनाया गया था?"
+          },
+          "options": {
+            "en": ["Vijayanagara Empire", "Mughal Empire", "Maratha Empire", "Chola Empire"],
+            "ta": ["விஜயநகரப் பேரரசு", "முகலாயப் பேரரசு", "மராட்டியப் பேரரசு", "சோழப் பேரரசு"],
+            "hi": ["विजयनगर साम्राज्य", "मुगल साम्राज्य", "मराठा साम्राज्य", "चोल साम्राज्य"]
+          },
+          "correctIndex": 0,
+          "explanation": {
+            "en": "The Stone Chariot was built during the peak of the Vijayanagara Empire by King Krishnadevaraya in the 16th century.",
+            "ta": "16-ஆம் நூற்றாண்டில் விஜயநகரப் பேரரசர் கிருஷ்ணதேவராயரால் கட்டப்பட்டது.",
+            "hi": "हम्पी का यह रथ 16वीं शताब्दी में विजयनगर साम्राज्य के प्रतापी राजा कृष्णदेवराय द्वारा बनवाया गया था।"
+          }
+        },
+        {
+          "id": "hc_q2",
+          "question": {
+            "en": "Which Indian banknote features the Stone Chariot of Hampi on its reverse?",
+            "ta": "எந்த இந்திய ரூபாய் நோட்டின் பின்புறத்தில் ஹம்பி கல் ரதம் இடம்பெற்றுள்ளது?",
+            "hi": "किस भारतीय बैंक नोट के पीछे हम्पी के प्रस्तर रथ का चित्र है?"
+          },
+          "options": {
+            "en": ["₹10 Note", "₹20 Note", "₹50 Note", "₹500 Note"],
+            "ta": ["₹10 நோட்டு", "₹20 நோட்டு", "₹50 நோட்டு", "₹500 நோட்டு"],
+            "hi": ["₹10 का नोट", "₹20 का नोट", "₹50 का नोट", "₹500 का नोट"]
+          },
+          "correctIndex": 2,
+          "explanation": {
+            "en": "The cyan-blue ₹50 note issued in the Mahatma Gandhi New Series features the Hampi Stone Chariot.",
+            "ta": "இந்திய ரிசர்வ் வங்கியின் ₹50 ரூபாய் நோட்டின் பின்புறத்தில் ஹம்பி கல் ரதம் உள்ளது.",
+            "hi": "भारतीय ₹50 के नए नोट के पृष्ठ भाग पर हम्पी के रथ का चित्र अंकित है।"
+          }
+        },
+        {
+          "id": "hc_q3",
+          "question": {
+            "en": "To which celestial deity/mount is this stone shrine chariot dedicated?",
+            "ta": "இக்கல் ரதக் கோயில் எந்த தெய்வத்திற்கு/வாகனத்திற்கு அர்ப்பணிக்கப்பட்டது?",
+            "hi": "हम्पी का यह रथ देवालय किस देवता अथवा वाहन को समर्पित है?"
+          },
+          "options": {
+            "en": ["Nandi the Bull", "Garuda the Divine Eagle", "Airavata the Elephant", "Hanuman"],
+            "ta": ["நந்தி தேவர்", "கருட பகவான்", "ஐராவதம் யானை", "அனுமன்"],
+            "hi": ["नंदी", "गरुड़ देव", "ऐरावत हाथी", "हनुमान जी"]
+          },
+          "correctIndex": 1,
+          "explanation": {
+            "en": "The chariot houses a shrine dedicated to Garuda, facing the main sanctum of Lord Vittala (Vishnu).",
+            "ta": "விட்டலரின் சன்னதிக்கு எதிரே உள்ள கருட பகவானின் வழிபாட்டிடமாக இது அமைக்கப்பட்டுள்ளது.",
+            "hi": "यह रथ भगवान विष्णु के वाहन गरुड़ देव का मंदिर है जो विट्ठल मंदिर के सम्मुख स्थित है।"
+          }
+        }
+      ],
+      "tags": ["Vijayanagara", "Hampi", "Stone Chariot", "Karnataka", "UNESCO"]
+    },
+    "ajanta_murals": {
+      "id": "ajanta_murals",
+      "name": "Ajanta Caves Bodhisattva Padmapani",
+      "names": {
+        "en": "Ajanta Caves Bodhisattva Padmapani",
+        "ta": "அஜந்தா பத்மபாணி போதிசத்துவர் ஓவியம்",
+        "hi": "अजंता गुफाएं बोधिसत्व पद्मपाणि भित्तिचित्र",
+        "mr": "अजिंठा लेणी बोधिसत्व पद्मपाणि चित्र",
+        "bn": "অজন্তা গুহার বোধিসত্ত্ব পদ্মপাণি দেয়ালচিত্র",
+        "te": "అజంతా గుహలు బోధిసత్త్వ పద్మపాణి వర్ణచిత్రం"
+      },
+      "location": "Aurangabad (Chhatrapati Sambhajinagar), Maharashtra, India",
+      "locations": {
+        "en": "Maharashtra, India",
+        "ta": "மகாராஷ்டிரா, இந்தியா",
+        "hi": "महाराष्ट्र, भारत",
+        "mr": "महाराष्ट्र, भारत",
+        "bn": "মহারাষ্ট্র, ভারত",
+        "te": "మహారాష్ట్ర, భారతదేశం"
+      },
+      "state": "Maharashtra",
+      "period": "5th Century CE (Vakataka Dynasty, Harishena)",
+      "category": "Traditional Art",
+      "imageUrl": "https://images.unsplash.com/photo-1544717305-2782549b5136?q=80&w=1200&auto=format&fit=crop",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1544717305-2782549b5136?q=80&w=400&auto=format&fit=crop",
+      "confidenceScore": 97,
+      "verified": true,
+      "unescoStatus": "UNESCO World Heritage Site (1983)",
+      "overview": {
+        "en": "The Padmapani mural inside Cave 1 of the Ajanta Caves in Maharashtra is universally celebrated as the apex of classical Indian painting. Holding a delicate blue lotus, the Bodhisattva gazes downward with serene compassion, embodying timeless grace and spiritual transcendence.",
+        "ta": "மகாராஷ்டிராவின் அஜந்தா குகை எண் 1-ல் உள்ள பத்மபாணி ஓவியம், உலகெங்கிலும் உன்னதமான இந்திய பாரம்பரிய ஓவியக்கலையின் சிகரமாக போற்றப்படுகிறது. கையில் நீலத் தாமரையை ஏந்தி, அமைதியான கருணையுடன் திகழ்கிறார்.",
+        "hi": "महाराष्ट्र के छत्रपति संभाजीनगर (औरंगाबाद) में स्थित अजंता की गुफा संख्या 1 में चित्रित 'बोधिसत्व पद्मपाणि' भारतीय शास्त्रीय चित्रकला का अद्वितीय रत्न है। हाथ में नीला कमल धारण किए बोधिसत्व करुणा और शांति का साक्षात्कार कराते हैं।",
+        "mr": "अजिंठा गुंफा क्रमांक १ मधील पद्मपाणीचे चित्र हे जगातील सर्वोत्तम भित्तिचित्रांपैकी एक आहे.",
+        "bn": "অজন্তার ১ নম্বর গুহার বোধিসত্ত্ব পদ্মপাণির ছবি ভারতীয় চিরায়ত চিত্রকলার শ্রেষ্ঠ নিদর্শন।",
+        "te": "అజంతా గుహలలోని పద్మపాణి చిత్రం భారతీయ ప్రాచీన చిత్రకళా శిఖరం."
+      },
+      "culturalSignificance": {
+        "en": "Padmapani ('Bearer of the Lotus') represents Avalokiteshvara, the Bodhisattva of boundless compassion. The gentle tilt of the head (Tribhanga pose) and meditative eyes have inspired Buddhist art throughout Silk Road trade routes into China, Japan, Sri Lanka, and Southeast Asia.",
+        "ta": "பத்மபாணி (தாமரை ஏந்தியவர்) எல்லையற்ற கருணையின் உருவமான அவலோகிதேஸ்வரரைக் குறிக்கிறார். உடலின் முப்பிரிவு வளைவு (திரிபங்கா) மற்றும் அமைதியான கண்கள் ஆசியாவின் சில்க் ரூட் வழியே சீனா, ஜப்பான் வரை பரவிய பௌத்த கலைக்கு முன்னோடியானது.",
+        "hi": "पद्मपाणि (हाथ में कमल लिए हुए) अवलोकितेश्वर का रूप हैं, जो असीम करुणा के प्रतीक हैं। त्रिभंग मुद्रा में झुकी उनकी ग्रीवा और ध्यानमग्न दृष्टि ने सिल्क रूट के माध्यम से तिब्बत, चीन और जापान तक की बौद्ध कला को प्रेरित किया।",
+        "mr": "करुणा आणि शांतीचे हे आंतरराष्ट्रीय प्रतीक आहे.",
+        "bn": "পদ্মপাণি অসীম করুণা ও শান্তির প্রতীক যিনি প্রাচ্যের সমগ্র বৌদ্ধ শিল্পকে প্রভাবিত করেছেন।",
+        "te": "కరుణామయుడైన అవలోకితేశ్వరుని త్రిభంగ ముద్ర ప్రాచ్య దేశాలన్నింటిలోనూ పూజనీయమైనది."
+      },
+      "history": {
+        "en": "Created during the Golden Age of the Vakataka Dynasty under King Harishena (c. 460–478 CE). The caves were excavated into a horseshoe-shaped volcanic cliff overlooking the Waghur River and remained untouched for centuries until British officer John Smith rediscovered them while hunting a tiger in 1819.",
+        "ta": "கி.பி. 5-ஆம் நூற்றாண்டில் வாகாடக வம்சத்தின் மன்னர் ஹரிஷேனரின் ஆதரவில் செதுக்கப்பட்டது. வாகுரா நதிக்கரையில் குதிரைக் குளம்பு வடிவிலான எரிமலைப் பாறைகளில் குடையப்பட்ட இந்த குகைகள், 1819-ல் புலி வேட்டையாட வந்த பிரிட்டிஷ் அதிகாரி ஜான் ஸ்மித்தால் கண்டறியப்பட்டன.",
+        "hi": "वाकाटक वंश के प्रतापी राजा हरिषेण के शासनकाल (लगभग 460-478 ईस्वी) में इन गुफाओं का निर्माण हुआ। बघोरा नदी के पास एक घोड़े की नाल के आकार की घाटी में बनी ये गुफाएं 1819 में ब्रिटिश अधिकारी जॉन स्मिथ द्वारा पुनः खोजी गईं।",
+        "mr": "वाकाटक राजा हरिषेण यांच्या काळात या लेण्या कोरल्या गेल्या.",
+        "bn": "১৮১৯ সালে ব্রিটিশ অফিসার জন স্মিথ বাঘ শিকার করতে গিয়ে এই গুহা আবিষ্কার করেন।",
+        "te": "1819 లో జాన్ స్మిత్ అనే అధికారి వేటకు వెళ్లి ఈ గుహలను తిరిగి కనుగొన్నారు."
+      },
+      "architecture": {
+        "en": "Painted using a sophisticated tempera fresco-secco technique on dry rock plaster made of clay, cow dung, and rice husks. Natural pigments used include lapis lazuli (imported from Afghanistan for vibrant blue), yellow ochre, lamp soot, and malachite green.",
+        "ta": "களிமண், வைக்கோல், சாணம் பூசப்பட்ட உலர்ந்த பாறை சுவரில் வரையப்பட்டது. ஆப்கானிஸ்தானில் இருந்து வரவழைக்கப்பட்ட அரிய லேபிஸ் லாசுலி நீலக் கல், இயற்கை காவி மற்றும் தாதுப் பொருட்களால் வண்ணங்கள் தீட்டப்பட்டன.",
+        "hi": "यह टेम्परा भित्तिचित्र शैली में मिट्टी, भूसी और गोबर के लेप पर बनाया गया है। इसमें अफगानिस्तान से मंगवाए गए बहुमूल्य 'लापिस लाजुली' पत्थर से नीला रंग, गेरू से पीला और मैलाकाइट से हरा रंग तैयार किया गया था।",
+        "mr": "नैसर्गिक खनिजे आणि लापिस लाजुलीच्या रंगांनी हे चित्र सजवले आहे.",
+        "bn": "আফগানিস্তান থেকে আনা মহামূল্যবান লাপিস লাজুলির নীল রঙে এই দেয়ালচিত্র উজ্জ্বল।",
+        "te": "ఆఫ్ఘనిస్తాన్ నుండి తెచ్చిన లాపిస్ లాజులీ రంగులతో ఈ చిత్రం కన్నులపండువగా ఉంటుంది."
+      },
+      "facts": {
+        "en": [
+          "The blue pigment of the lotus in Padmapani's hand was made from pulverized Lapis Lazuli imported across thousands of miles from the Badakhshan mines of Afghanistan.",
+          "British officer John Smith accidentally rediscovered the caves in 1819 and scratched his name onto a pillar in Cave 10, still visible today.",
+          "Ajanta contains 30 rock-cut cave monuments spanning two distinct phases: 2nd century BCE (Satavahana) and 5th century CE (Vakataka).",
+          "The eyes of Padmapani are angled so that whichever angle a viewer stands, the compassionate gaze appears directed toward them."
+        ],
+        "ta": [
+          "பத்மபாணியின் கையில் உள்ள நீலத் தாமரையின் வண்ணம் ஆப்கானிஸ்தானில் இருந்து வரவழைக்கப்பட்ட விலைமதிப்பற்ற லேபிஸ் லாசுலி கல்லால் ஆனது.",
+          "1819 இல் குகையைக் கண்டுபிடித்த ஜான் ஸ்மித், குகை 10-ல் தனது பெயரை செதுக்கினார், அது இன்றும் உள்ளது.",
+          "அஜந்தாவில் இரண்டு வெவ்வேறு காலகட்டங்களைச் சேர்ந்த 30 குடைவரைக் குகைகள் உள்ளன.",
+          "பார்வையாளர் எந்த மூலையில் நின்றாலும், பத்மபாணியின் கண்கள் அவர்களை நேருக்கு நேர் நோக்குவது போல் வரையப்பட்டுள்ளது."
+        ],
+        "hi": [
+          "बोधिसत्व के हाथ के नीले कमल का रंग हजारों मील दूर अफगानिस्तान की बदख्शां खदानों से लाए गए लापिस लाजुली पत्थर से बनाया गया था।",
+          "1819 में इसे खोजने वाले ब्रिटिश अधिकारी जॉन स्मिथ ने गुफा 10 के खंभे पर अपना नाम खुरच दिया था, जो आज भी देखा जा सकता है।",
+          "अजंता में कुल 30 शैलकृत गुफाएं हैं, जो सातवाहन और वाकाटक काल से संबंधित हैं।",
+          "पद्मपाणि की आंखें इस प्रकार चित्रित हैं कि आप किसी भी कोने से देखें, वे सीधे आपकी ओर देखती प्रतीत होती हैं।"
+        ],
+        "mr": [
+          "अजिंठा येथे एकूण ३० लेणी आहेत.",
+          "१८१९ मध्ये जॉन स्मिथने या लेण्यांचा शोध लावला."
+        ],
+        "bn": [
+          "পদ্মপাণির হাতের নীল পদ্মটি আফগানিস্তানের লাপিস লাজুলি পাথর থেকে তৈরি।",
+          "গুহার যে কোনও কোণ থেকেই দেখলে মনে হয় বুদ্ধ আপনার দিকেই চেয়ে আছেন।"
+        ],
+        "te": [
+          "ఈ చిత్రంలోని నీలి కమలం రంగు ఆఫ్ఘనిస్తాన్ నుండి తెచ్చిన రత్నం ద్వారా తయారైంది.",
+          "ఎటు నుండి చూసినా బోధిసత్వుడు మనవైపే చూస్తున్నట్లు కనిపిస్తాడు."
+        ]
+      },
+      "audioNarrationText": {
+        "en": "Gaze upon Cave 1 of the Ajanta Caves in Maharashtra. Here shines Bodhisattva Padmapani, painted over fifteen hundred years ago. Holding a serene blue lotus plucked from the waters of wisdom, his gentle face and downward gaze radiate infinite compassion. In this dark volcanic sanctuary, ancient Indian artists mastered shadow, three-dimensional depth, and spiritual serenity that continues to calm the human soul today.",
+        "ta": "மகாராஷ்டிராவின் அஜந்தா குகை எண் 1-ஐ உற்று நோக்குங்கள். பதினைநூறு ஆண்டுகளுக்கு முன்பு வடிக்கப்பட்ட போதிசத்துவர் பத்மபாணி இங்கே ஒளிர்கிறார். ஞானத்தின் நீரிலிருந்து பறித்த நீலத் தாமரையை கையில் ஏந்தி, அவருடைய கருணை ததும்பும் முகம் எல்லையற்ற அமைதியைப் பொழிகிறது. இந்த இருண்ட எரிமலைக் குகைக்குள் பண்டைய இந்திய ஓவியர்கள் நிழலையும் முப்பரிமாண அழகையும் தெய்வீகத்தையும் கலந்து நமக்கு அருளியுள்ளனர்.",
+        "hi": "महाराष्ट्र की अजंता गुफा संख्या 1 के शांत कक्ष में दृष्टिपात करें। पंद्रह सौ वर्ष पूर्व चित्रित बोधिसत्व पद्मपाणि यहां जीवंत प्रतीत होते हैं। हाथ में ज्ञान और करुणा का नीलकमल थामे, उनकी ध्यानस्थ आंखें अनंत शांति का संचार करती हैं। ज्वालामुखी की कठोर चट्टानों के भीतर प्राचीन भारतीय कलाकारों ने प्रकाश, छाया और आध्यात्मिक शांति का जो संसार रचा है, वह आज भी हृदय को शांति प्रदान करता है।"
+      },
+      "story": {
+        "title": {
+          "en": "The Light in the Darkened Cave",
+          "ta": "இருண்ட குகையின் ஞான ஒளி",
+          "hi": "गुफा के अंधकार में दिव्य आलोक",
+          "mr": "अंधाऱ्या लेण्यांमधील प्रकाश",
+          "bn": "অন্ধকার গুহার দিব্যজ্যোতি",
+          "te": "చీకటి గుహలో దివ్య కాంతి"
+        },
+        "intro": {
+          "en": "Inside the pitch-black hollow of Cave 1, as ancient monks light brass oil lamps with mirrors reflecting soft sunlight onto the damp stone walls, a compassionate figure slowly emerges...",
+          "ta": "குகை 1-ன் இருண்ட அறையில், பித்தளை விளக்குகளின் ஒளியும் கண்ணாடிகளால் திருப்பப்பட்ட மெல்லிய சூரிய ஒளியும் சுவரில் விழும்போது, கருணை வடிவாய் ஒரு உருவம் வெளிப்படுகிறது...",
+          "hi": "गुफा संख्या 1 के गहन अंधकार में जब बौद्ध भिक्षु पीतल के दीये जलाकर और दर्पणों से सूर्य के प्रकाश को परावर्तित करते हैं, तो गीली दीवार पर एक दिव्य रूप प्रकट होता है..."
+        },
+        "chapters": [
+          {
+            "id": "a1",
+            "title": {
+              "en": "The Brush of the Monk Artist",
+              "ta": "துறவி ஓவியரின் தூரிகை",
+              "hi": "संन्यासी शिल्पी की तूलिका"
+            },
+            "content": {
+              "en": "With hair bound in ascetic knots, master monks chanted sutras while applying layers of crushed lapis lazuli. They worked not for fame or coins, but to paint an icon of compassion that would outlive mortal dynasties.",
+              "ta": "புகழுக்காகவோ பணத்திற்காகவோ அல்லாமல், அழியாத கருணையின் அடையாளமாக இக்கோலத்தை தீட்டினர் அந்தத் துறவிகள்.",
+              "hi": "संन्यासी कलाकारों ने सांसारिक यश के लिए नहीं, बल्कि मानव जाति को करुणा और प्रेम का शाश्वत संदेश देने के लिए इस अद्वितीय भित्तिचित्र का सृजन किया।"
+            }
+          },
+          {
+            "id": "a2",
+            "title": {
+              "en": "The Tiger and the Secret Cave",
+              "ta": "புலியும் ரகசிய குகையும்",
+              "hi": "बाघ का शिकार और गुप्त गुफा"
+            },
+            "content": {
+              "en": "In 1819, chasing a royal Bengal tiger through overgrown ravine foliage, young officer John Smith looked up to see an impossible stone archway. He entered the forgotten realm, and the eyes of Padmapani met his own across fourteen centuries of silence.",
+              "ta": "1819-ல் வேட்டையாட வந்த ஜான் ஸ்மித், புதர்களுக்கு இடையே தெரிந்த குகைக்குள் நுழைந்தபோது, 1400 ஆண்டுகால மௌனத்தைக் கடந்து பத்மபாணியின் கண்கள் அவரை நோக்கியது.",
+              "hi": "1819 में एक बाघ का पीछा करते हुए जॉन स्मिथ जब जंगल की झाड़ियों के बीच छिपी गुफा में पहुंचे, तो चौदह सौ वर्षों के मौन को चीरती हुई पद्मपाणि की करुण दृष्टि ने उनका स्वागत किया।"
+            }
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "id": "aj_q1",
+          "question": {
+            "en": "In which state of India are the world-heritage Ajanta Caves located?",
+            "ta": "உலகப் பாரம்பரிய அஜந்தா குகைகள் இந்தியாவின் எந்த மாநிலத்தில் அமைந்துள்ளன?",
+            "hi": "विश्व धरोहर अजंता की गुफाएं भारत के किस राज्य में स्थित हैं?"
+          },
+          "options": {
+            "en": ["Maharashtra", "Madhya Pradesh", "Gujarat", "Andhra Pradesh"],
+            "ta": ["மகாராஷ்டிரா", "மத்திய பிரதேசம்", "குஜராத்", "ஆந்திர பிரதேசம்"],
+            "hi": ["महाराष्ट्र", "मध्य प्रदेश", "गुजरात", "आंध्र प्रदेश"]
+          },
+          "correctIndex": 0,
+          "explanation": {
+            "en": "The Ajanta Caves are located in the Chhatrapati Sambhajinagar (Aurangabad) district of Maharashtra.",
+            "ta": "அஜந்தா குகைகள் மகாராஷ்டிராவின் சத்ரபதி சம்பாஜிநகர் (ஔரங்காபாத்) மாவட்டத்தில் உள்ளன.",
+            "hi": "अजंता की गुफाएं महाराष्ट्र के छत्रपति संभाजीनगर (औरंगाबाद) जिले में स्थित हैं।"
+          }
+        },
+        {
+          "id": "aj_q2",
+          "question": {
+            "en": "What flower does the Bodhisattva Padmapani hold in his right hand?",
+            "ta": "போதிசத்துவர் பத்மபாணி தனது வலது கையில் எந்த மலரை ஏந்தியுள்ளார்?",
+            "hi": "बोधिसत्व पद्मपाणि अपने दाहिने हाथ में कौन सा पुष्प धारण किए हुए हैं?"
+          },
+          "options": {
+            "en": ["Blue Lotus (Utpala)", "Red Rose", "White Jasmine", "Marigold"],
+            "ta": ["நீலத் தாமரை (உத்பலம்)", "சிவப்பு ரோஜா", "வெள்ளை மல்லிகை", "சாமந்தி"],
+            "hi": ["नीलकमल (उत्पल)", "लाल गुलाब", "सफेद चमेली", "गेंदा"]
+          },
+          "correctIndex": 0,
+          "explanation": {
+            "en": "Padmapani literally means 'Bearer of the Lotus', holding a divine blue lotus symbolizing spiritual purity.",
+            "ta": "பத்மபாணி என்பதற்கு 'தாமரை ஏந்தியவர்' என்று பொருள்; கையில் நீலத் தாமரையைத் தாங்கியுள்ளார்.",
+            "hi": "पद्मपाणि का अर्थ ही 'हाथ में कमल धारण करने वाला' है, जो आध्यात्मिक पवित्रता का प्रतीक है।"
+          }
+        },
+        {
+          "id": "aj_q3",
+          "question": {
+            "en": "From where was the rare blue lapis lazuli pigment imported to paint Ajanta?",
+            "ta": "அஜந்தா ஓவியங்களில் நீல வண்ணம் தீட்ட பயன்பட்ட அரிய லேபிஸ் லாசுலி எங்கிருந்து வரவழைக்கப்பட்டது?",
+            "hi": "अजंता में नीला रंग बनाने के लिए दुर्लभ लापिस लाजुली पत्थर कहां से आयात किया गया था?"
+          },
+          "options": {
+            "en": ["Badakhshan, Afghanistan", "Egypt", "Rome", "Sri Lanka"],
+            "ta": ["பதாக்ஷான், ஆப்கானிஸ்தான்", "எகிப்து", "ரோம்", "இலங்கை"],
+            "hi": ["बदख्शां, अफगानिस्तान", "मिस्र", "रोम", "श्रीलंका"]
+          },
+          "correctIndex": 0,
+          "explanation": {
+            "en": "The ultramarine pigment was produced from lapis lazuli mined in the Hindu Kush mountains of Badakhshan, Afghanistan.",
+            "ta": "ஆப்கானிஸ்தானின் பதாக்ஷான் மலையடிவாரத்தில் இருந்து லேபிஸ் லாசுலி வரவழைக்கப்பட்டது.",
+            "hi": "यह नीला रंग अफगानिस्तान की बदख्शां खदानों से सिल्क रूट के माध्यम से लाया जाता था।"
+          }
+        }
+      ],
+      "tags": ["Ajanta Caves", "Padmapani", "Buddhist Art", "Fresco", "Maharashtra"]
+    }
+  }
+}

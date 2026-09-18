@@ -1,0 +1,106 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --font-heading: 'Cinzel', serif;
+    --font-sans: 'Plus Jakarta Sans', sans-serif;
+  }
+
+  body {
+    background-color: #070C1B;
+    color: #F8FAFC;
+    font-family: var(--font-sans);
+    overflow-x: hidden;
+  }
+
+  h1, h2, h3, .font-heritage {
+    font-family: var(--font-heading);
+  }
+}
+
+/* Glassmorphism Classes */
+.glass-card {
+  background: rgba(11, 19, 43, 0.72);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  border: 1px solid rgba(255, 183, 3, 0.18);
+  box-shadow: 0 10px 30px -5px rgba(0, 0, 0, 0.5), 0 0 15px rgba(255, 107, 53, 0.08);
+}
+
+.glass-card-hover {
+  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.glass-card-hover:hover {
+  transform: translateY(-4px);
+  border-color: rgba(255, 183, 3, 0.4);
+  box-shadow: 0 20px 40px -10px rgba(0, 0, 0, 0.6), 0 0 25px rgba(255, 183, 3, 0.2);
+}
+
+.glass-nav {
+  background: rgba(7, 12, 27, 0.85);
+  backdrop-filter: blur(18px);
+  -webkit-backdrop-filter: blur(18px);
+  border-bottom: 1px solid rgba(255, 183, 3, 0.15);
+}
+
+/* Gradient Borders & Text */
+.text-gold-gradient {
+  background: linear-gradient(135deg, #FFF0BA 0%, #FFB703 50%, #E5A93C 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.text-saffron-gradient {
+  background: linear-gradient(135deg, #FFA07A 0%, #FF6B35 50%, #E85D04 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.border-glow-gold {
+  border-color: rgba(255, 183, 3, 0.35);
+  box-shadow: 0 0 15px rgba(255, 183, 3, 0.25);
+}
+
+.border-glow-saffron {
+  border-color: rgba(255, 107, 53, 0.35);
+  box-shadow: 0 0 15px rgba(255, 107, 53, 0.25);
+}
+
+/* High Contrast Mode */
+.high-contrast {
+  --bg-contrast: #000000;
+  --text-contrast: #FFFFFF;
+}
+
+.high-contrast body {
+  background-color: #000000 !important;
+  color: #FFFFFF !important;
+}
+
+.high-contrast .glass-card {
+  background: #0d0d0d !important;
+  border: 2px solid #FFD700 !important;
+  box-shadow: none !important;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #070C1B;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #1D3557;
+  border-radius: 4px;
+  border: 1px solid rgba(255, 183, 3, 0.2);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #FF6B35;
+}

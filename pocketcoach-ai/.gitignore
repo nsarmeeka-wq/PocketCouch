@@ -1,0 +1,26 @@
+# dependencies
+node_modules/
+
+# build output
+dist/
+dist-ssr/
+
+# bundled calibration scripts (esbuild output)
+.tmp/
+
+# backend runtime state: SQLite database + generated JWT signing key
+backend/data/
+backend/.venv/
+__pycache__/
+*.pyc
+
+# dev server logs
+*.log
+*.pid
+
+# editor / OS noise
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+Thumbs.db

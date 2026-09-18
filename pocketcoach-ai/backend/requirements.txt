@@ -1,0 +1,13 @@
+# PocketCoach AI backend — accounts and sessions.
+#
+# Deliberately tiny: password hashing (scrypt) and JWT (HS256) use the standard
+# library, so the only runtime dependencies are the web framework itself.
+#
+#   python -m pip install -r backend/requirements.txt
+#
+# Swap in `pyjwt` / `bcrypt` later if you prefer battle-tested libraries — the
+# only file that would change is app/security.py.
+
+fastapi>=0.110,<0.120
+uvicorn[standard]>=0.29,<0.35
+pydantic>=2.6,<3
